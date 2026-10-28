@@ -1,0 +1,29 @@
+{
+  "class_weights": {
+    "0": 4.372426699937617,
+    "1": 2.7813492063492062,
+    "2": 1.3037574404761905,
+    "3": 12.361552028218695,
+    "4": 1.2869996327579876,
+    "5": 0.2133572798392743,
+    "6": 10.012857142857143
+  },
+  "label_to_code": {
+    "0": "akiec",
+    "1": "bcc",
+    "2": "bkl",
+    "3": "df",
+    "4": "mel",
+    "5": "nv",
+    "6": "vasc"
+  },
+  "code_to_name": {
+    "nv": "melanocytic nevi",
+    "mel": "melanoma",
+    "bkl": "benign keratosis-like lesions",
+    "bcc": "basal cell carcinoma",
+    "akiec": "actinic keratoses",
+    "vasc": "vascular lesions",
+    "df": "dermatofibroma"
+  }
+}

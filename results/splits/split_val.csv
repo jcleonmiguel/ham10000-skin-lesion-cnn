@@ -1,0 +1,1503 @@
+image_name,image_path,class_title,class_code,height,width,img_exists,label
+ISIC_0028808.jpg,ds/img/ISIC_0028808.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029250.jpg,ds/img/ISIC_0029250.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032011.jpg,ds/img/ISIC_0032011.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031644.jpg,ds/img/ISIC_0031644.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028284.jpg,ds/img/ISIC_0028284.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031416.jpg,ds/img/ISIC_0031416.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030115.jpg,ds/img/ISIC_0030115.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024955.jpg,ds/img/ISIC_0024955.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024959.jpg,ds/img/ISIC_0024959.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032940.jpg,ds/img/ISIC_0032940.jpg,melanoma,mel,450,600,True,4
+ISIC_0024575.jpg,ds/img/ISIC_0024575.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0026706.jpg,ds/img/ISIC_0026706.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033241.jpg,ds/img/ISIC_0033241.jpg,melanoma,mel,450,600,True,4
+ISIC_0026815.jpg,ds/img/ISIC_0026815.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030421.jpg,ds/img/ISIC_0030421.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026494.jpg,ds/img/ISIC_0026494.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028355.jpg,ds/img/ISIC_0028355.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025925.jpg,ds/img/ISIC_0025925.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028469.jpg,ds/img/ISIC_0028469.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032363.jpg,ds/img/ISIC_0032363.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033132.jpg,ds/img/ISIC_0033132.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030358.jpg,ds/img/ISIC_0030358.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026833.jpg,ds/img/ISIC_0026833.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025121.jpg,ds/img/ISIC_0025121.jpg,melanoma,mel,450,600,True,4
+ISIC_0030303.jpg,ds/img/ISIC_0030303.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033579.jpg,ds/img/ISIC_0033579.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0025178.jpg,ds/img/ISIC_0025178.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0024664.jpg,ds/img/ISIC_0024664.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032246.jpg,ds/img/ISIC_0032246.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0027182.jpg,ds/img/ISIC_0027182.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026112.jpg,ds/img/ISIC_0026112.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027046.jpg,ds/img/ISIC_0027046.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0031850.jpg,ds/img/ISIC_0031850.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029237.jpg,ds/img/ISIC_0029237.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0034319.jpg,ds/img/ISIC_0034319.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0034117.jpg,ds/img/ISIC_0034117.jpg,melanoma,mel,450,600,True,4
+ISIC_0028772.jpg,ds/img/ISIC_0028772.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027976.jpg,ds/img/ISIC_0027976.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0027701.jpg,ds/img/ISIC_0027701.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028245.jpg,ds/img/ISIC_0028245.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0034269.jpg,ds/img/ISIC_0034269.jpg,melanoma,mel,450,600,True,4
+ISIC_0030088.jpg,ds/img/ISIC_0030088.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0032516.jpg,ds/img/ISIC_0032516.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029883.jpg,ds/img/ISIC_0029883.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031429.jpg,ds/img/ISIC_0031429.jpg,dermatofibroma,df,450,600,True,3
+ISIC_0030972.jpg,ds/img/ISIC_0030972.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029336.jpg,ds/img/ISIC_0029336.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031417.jpg,ds/img/ISIC_0031417.jpg,melanoma,mel,450,600,True,4
+ISIC_0031537.jpg,ds/img/ISIC_0031537.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0031425.jpg,ds/img/ISIC_0031425.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026845.jpg,ds/img/ISIC_0026845.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0033611.jpg,ds/img/ISIC_0033611.jpg,melanoma,mel,450,600,True,4
+ISIC_0026487.jpg,ds/img/ISIC_0026487.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027390.jpg,ds/img/ISIC_0027390.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033424.jpg,ds/img/ISIC_0033424.jpg,melanoma,mel,450,600,True,4
+ISIC_0027513.jpg,ds/img/ISIC_0027513.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0033890.jpg,ds/img/ISIC_0033890.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030804.jpg,ds/img/ISIC_0030804.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033805.jpg,ds/img/ISIC_0033805.jpg,melanoma,mel,450,600,True,4
+ISIC_0027089.jpg,ds/img/ISIC_0027089.jpg,melanoma,mel,450,600,True,4
+ISIC_0025124.jpg,ds/img/ISIC_0025124.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024773.jpg,ds/img/ISIC_0024773.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0024688.jpg,ds/img/ISIC_0024688.jpg,melanoma,mel,450,600,True,4
+ISIC_0033621.jpg,ds/img/ISIC_0033621.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032604.jpg,ds/img/ISIC_0032604.jpg,melanoma,mel,450,600,True,4
+ISIC_0034067.jpg,ds/img/ISIC_0034067.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026922.jpg,ds/img/ISIC_0026922.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031333.jpg,ds/img/ISIC_0031333.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033725.jpg,ds/img/ISIC_0033725.jpg,melanoma,mel,450,600,True,4
+ISIC_0027584.jpg,ds/img/ISIC_0027584.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0029498.jpg,ds/img/ISIC_0029498.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0034098.jpg,ds/img/ISIC_0034098.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029057.jpg,ds/img/ISIC_0029057.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029593.jpg,ds/img/ISIC_0029593.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032202.jpg,ds/img/ISIC_0032202.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032707.jpg,ds/img/ISIC_0032707.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024388.jpg,ds/img/ISIC_0024388.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024335.jpg,ds/img/ISIC_0024335.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032631.jpg,ds/img/ISIC_0032631.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033793.jpg,ds/img/ISIC_0033793.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025521.jpg,ds/img/ISIC_0025521.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030272.jpg,ds/img/ISIC_0030272.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0026740.jpg,ds/img/ISIC_0026740.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026439.jpg,ds/img/ISIC_0026439.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0027228.jpg,ds/img/ISIC_0027228.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029159.jpg,ds/img/ISIC_0029159.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027878.jpg,ds/img/ISIC_0027878.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026645.jpg,ds/img/ISIC_0026645.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0027838.jpg,ds/img/ISIC_0027838.jpg,melanoma,mel,450,600,True,4
+ISIC_0026637.jpg,ds/img/ISIC_0026637.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0032328.jpg,ds/img/ISIC_0032328.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030618.jpg,ds/img/ISIC_0030618.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033360.jpg,ds/img/ISIC_0033360.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029124.jpg,ds/img/ISIC_0029124.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024400.jpg,ds/img/ISIC_0024400.jpg,melanoma,mel,450,600,True,4
+ISIC_0024784.jpg,ds/img/ISIC_0024784.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027695.jpg,ds/img/ISIC_0027695.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033576.jpg,ds/img/ISIC_0033576.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0024742.jpg,ds/img/ISIC_0024742.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030310.jpg,ds/img/ISIC_0030310.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0032243.jpg,ds/img/ISIC_0032243.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033204.jpg,ds/img/ISIC_0033204.jpg,melanoma,mel,450,600,True,4
+ISIC_0025507.jpg,ds/img/ISIC_0025507.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0032691.jpg,ds/img/ISIC_0032691.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026384.jpg,ds/img/ISIC_0026384.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0034245.jpg,ds/img/ISIC_0034245.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026721.jpg,ds/img/ISIC_0026721.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033358.jpg,ds/img/ISIC_0033358.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0029078.jpg,ds/img/ISIC_0029078.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033210.jpg,ds/img/ISIC_0033210.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025048.jpg,ds/img/ISIC_0025048.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025328.jpg,ds/img/ISIC_0025328.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028685.jpg,ds/img/ISIC_0028685.jpg,melanoma,mel,450,600,True,4
+ISIC_0033955.jpg,ds/img/ISIC_0033955.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029029.jpg,ds/img/ISIC_0029029.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0033699.jpg,ds/img/ISIC_0033699.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029658.jpg,ds/img/ISIC_0029658.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032478.jpg,ds/img/ISIC_0032478.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025700.jpg,ds/img/ISIC_0025700.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0024453.jpg,ds/img/ISIC_0024453.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0031397.jpg,ds/img/ISIC_0031397.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030756.jpg,ds/img/ISIC_0030756.jpg,melanoma,mel,450,600,True,4
+ISIC_0028854.jpg,ds/img/ISIC_0028854.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0032010.jpg,ds/img/ISIC_0032010.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0034026.jpg,ds/img/ISIC_0034026.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0025195.jpg,ds/img/ISIC_0025195.jpg,melanoma,mel,450,600,True,4
+ISIC_0028225.jpg,ds/img/ISIC_0028225.jpg,melanoma,mel,450,600,True,4
+ISIC_0031750.jpg,ds/img/ISIC_0031750.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026167.jpg,ds/img/ISIC_0026167.jpg,melanoma,mel,450,600,True,4
+ISIC_0027099.jpg,ds/img/ISIC_0027099.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026715.jpg,ds/img/ISIC_0026715.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027520.jpg,ds/img/ISIC_0027520.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027441.jpg,ds/img/ISIC_0027441.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031173.jpg,ds/img/ISIC_0031173.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030346.jpg,ds/img/ISIC_0030346.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0028531.jpg,ds/img/ISIC_0028531.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024607.jpg,ds/img/ISIC_0024607.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026212.jpg,ds/img/ISIC_0026212.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0028470.jpg,ds/img/ISIC_0028470.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026789.jpg,ds/img/ISIC_0026789.jpg,dermatofibroma,df,450,600,True,3
+ISIC_0025168.jpg,ds/img/ISIC_0025168.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027822.jpg,ds/img/ISIC_0027822.jpg,melanoma,mel,450,600,True,4
+ISIC_0027101.jpg,ds/img/ISIC_0027101.jpg,melanoma,mel,450,600,True,4
+ISIC_0027269.jpg,ds/img/ISIC_0027269.jpg,vascular lesions,vasc,450,600,True,6
+ISIC_0033167.jpg,ds/img/ISIC_0033167.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031510.jpg,ds/img/ISIC_0031510.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030771.jpg,ds/img/ISIC_0030771.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031254.jpg,ds/img/ISIC_0031254.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027299.jpg,ds/img/ISIC_0027299.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028980.jpg,ds/img/ISIC_0028980.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0032479.jpg,ds/img/ISIC_0032479.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032140.jpg,ds/img/ISIC_0032140.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027497.jpg,ds/img/ISIC_0027497.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025468.jpg,ds/img/ISIC_0025468.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025239.jpg,ds/img/ISIC_0025239.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030951.jpg,ds/img/ISIC_0030951.jpg,melanoma,mel,450,600,True,4
+ISIC_0028258.jpg,ds/img/ISIC_0028258.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0026072.jpg,ds/img/ISIC_0026072.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0032296.jpg,ds/img/ISIC_0032296.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027670.jpg,ds/img/ISIC_0027670.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029829.jpg,ds/img/ISIC_0029829.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028228.jpg,ds/img/ISIC_0028228.jpg,melanoma,mel,450,600,True,4
+ISIC_0034075.jpg,ds/img/ISIC_0034075.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029524.jpg,ds/img/ISIC_0029524.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0031302.jpg,ds/img/ISIC_0031302.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033144.jpg,ds/img/ISIC_0033144.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032862.jpg,ds/img/ISIC_0032862.jpg,melanoma,mel,450,600,True,4
+ISIC_0032005.jpg,ds/img/ISIC_0032005.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032470.jpg,ds/img/ISIC_0032470.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025047.jpg,ds/img/ISIC_0025047.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029866.jpg,ds/img/ISIC_0029866.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029840.jpg,ds/img/ISIC_0029840.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0031562.jpg,ds/img/ISIC_0031562.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024884.jpg,ds/img/ISIC_0024884.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030531.jpg,ds/img/ISIC_0030531.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026591.jpg,ds/img/ISIC_0026591.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031892.jpg,ds/img/ISIC_0031892.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024378.jpg,ds/img/ISIC_0024378.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027378.jpg,ds/img/ISIC_0027378.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030233.jpg,ds/img/ISIC_0030233.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0027002.jpg,ds/img/ISIC_0027002.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027180.jpg,ds/img/ISIC_0027180.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027851.jpg,ds/img/ISIC_0027851.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0027923.jpg,ds/img/ISIC_0027923.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0034211.jpg,ds/img/ISIC_0034211.jpg,melanoma,mel,450,600,True,4
+ISIC_0029964.jpg,ds/img/ISIC_0029964.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027394.jpg,ds/img/ISIC_0027394.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0025353.jpg,ds/img/ISIC_0025353.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031662.jpg,ds/img/ISIC_0031662.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029963.jpg,ds/img/ISIC_0029963.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031062.jpg,ds/img/ISIC_0031062.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0028764.jpg,ds/img/ISIC_0028764.jpg,melanoma,mel,450,600,True,4
+ISIC_0028648.jpg,ds/img/ISIC_0028648.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027608.jpg,ds/img/ISIC_0027608.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0032566.jpg,ds/img/ISIC_0032566.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030954.jpg,ds/img/ISIC_0030954.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0028770.jpg,ds/img/ISIC_0028770.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030420.jpg,ds/img/ISIC_0030420.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025021.jpg,ds/img/ISIC_0025021.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031470.jpg,ds/img/ISIC_0031470.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0024514.jpg,ds/img/ISIC_0024514.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030760.jpg,ds/img/ISIC_0030760.jpg,melanoma,mel,450,600,True,4
+ISIC_0032312.jpg,ds/img/ISIC_0032312.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026904.jpg,ds/img/ISIC_0026904.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032299.jpg,ds/img/ISIC_0032299.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033324.jpg,ds/img/ISIC_0033324.jpg,melanoma,mel,450,600,True,4
+ISIC_0027058.jpg,ds/img/ISIC_0027058.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0026289.jpg,ds/img/ISIC_0026289.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025404.jpg,ds/img/ISIC_0025404.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026996.jpg,ds/img/ISIC_0026996.jpg,melanoma,mel,450,600,True,4
+ISIC_0025064.jpg,ds/img/ISIC_0025064.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0027510.jpg,ds/img/ISIC_0027510.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033887.jpg,ds/img/ISIC_0033887.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026469.jpg,ds/img/ISIC_0026469.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028832.jpg,ds/img/ISIC_0028832.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029871.jpg,ds/img/ISIC_0029871.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031065.jpg,ds/img/ISIC_0031065.jpg,vascular lesions,vasc,450,600,True,6
+ISIC_0033361.jpg,ds/img/ISIC_0033361.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0028723.jpg,ds/img/ISIC_0028723.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028294.jpg,ds/img/ISIC_0028294.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0029056.jpg,ds/img/ISIC_0029056.jpg,melanoma,mel,450,600,True,4
+ISIC_0033260.jpg,ds/img/ISIC_0033260.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0032726.jpg,ds/img/ISIC_0032726.jpg,melanoma,mel,450,600,True,4
+ISIC_0032711.jpg,ds/img/ISIC_0032711.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032339.jpg,ds/img/ISIC_0032339.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030011.jpg,ds/img/ISIC_0030011.jpg,dermatofibroma,df,450,600,True,3
+ISIC_0029434.jpg,ds/img/ISIC_0029434.jpg,melanoma,mel,450,600,True,4
+ISIC_0024426.jpg,ds/img/ISIC_0024426.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0032206.jpg,ds/img/ISIC_0032206.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0024957.jpg,ds/img/ISIC_0024957.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030645.jpg,ds/img/ISIC_0030645.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025312.jpg,ds/img/ISIC_0025312.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0029648.jpg,ds/img/ISIC_0029648.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032195.jpg,ds/img/ISIC_0032195.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025874.jpg,ds/img/ISIC_0025874.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0031165.jpg,ds/img/ISIC_0031165.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031884.jpg,ds/img/ISIC_0031884.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028178.jpg,ds/img/ISIC_0028178.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026349.jpg,ds/img/ISIC_0026349.jpg,vascular lesions,vasc,450,600,True,6
+ISIC_0027717.jpg,ds/img/ISIC_0027717.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027350.jpg,ds/img/ISIC_0027350.jpg,melanoma,mel,450,600,True,4
+ISIC_0028403.jpg,ds/img/ISIC_0028403.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027428.jpg,ds/img/ISIC_0027428.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0032935.jpg,ds/img/ISIC_0032935.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025808.jpg,ds/img/ISIC_0025808.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0026630.jpg,ds/img/ISIC_0026630.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030653.jpg,ds/img/ISIC_0030653.jpg,melanoma,mel,450,600,True,4
+ISIC_0026259.jpg,ds/img/ISIC_0026259.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027604.jpg,ds/img/ISIC_0027604.jpg,melanoma,mel,450,600,True,4
+ISIC_0029554.jpg,ds/img/ISIC_0029554.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025840.jpg,ds/img/ISIC_0025840.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030186.jpg,ds/img/ISIC_0030186.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028238.jpg,ds/img/ISIC_0028238.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0031146.jpg,ds/img/ISIC_0031146.jpg,melanoma,mel,450,600,True,4
+ISIC_0030802.jpg,ds/img/ISIC_0030802.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030991.jpg,ds/img/ISIC_0030991.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0032067.jpg,ds/img/ISIC_0032067.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033372.jpg,ds/img/ISIC_0033372.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0025316.jpg,ds/img/ISIC_0025316.jpg,melanoma,mel,450,600,True,4
+ISIC_0029776.jpg,ds/img/ISIC_0029776.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0031296.jpg,ds/img/ISIC_0031296.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025665.jpg,ds/img/ISIC_0025665.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025592.jpg,ds/img/ISIC_0025592.jpg,melanoma,mel,450,600,True,4
+ISIC_0027153.jpg,ds/img/ISIC_0027153.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028191.jpg,ds/img/ISIC_0028191.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031464.jpg,ds/img/ISIC_0031464.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0032883.jpg,ds/img/ISIC_0032883.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0029836.jpg,ds/img/ISIC_0029836.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0031283.jpg,ds/img/ISIC_0031283.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024382.jpg,ds/img/ISIC_0024382.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0028606.jpg,ds/img/ISIC_0028606.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025499.jpg,ds/img/ISIC_0025499.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030831.jpg,ds/img/ISIC_0030831.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031193.jpg,ds/img/ISIC_0031193.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028568.jpg,ds/img/ISIC_0028568.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0029643.jpg,ds/img/ISIC_0029643.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031327.jpg,ds/img/ISIC_0031327.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027867.jpg,ds/img/ISIC_0027867.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025434.jpg,ds/img/ISIC_0025434.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0026256.jpg,ds/img/ISIC_0026256.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030203.jpg,ds/img/ISIC_0030203.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0025367.jpg,ds/img/ISIC_0025367.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032861.jpg,ds/img/ISIC_0032861.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032740.jpg,ds/img/ISIC_0032740.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0025412.jpg,ds/img/ISIC_0025412.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024646.jpg,ds/img/ISIC_0024646.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0024761.jpg,ds/img/ISIC_0024761.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0028540.jpg,ds/img/ISIC_0028540.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024563.jpg,ds/img/ISIC_0024563.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031519.jpg,ds/img/ISIC_0031519.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0029420.jpg,ds/img/ISIC_0029420.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0032968.jpg,ds/img/ISIC_0032968.jpg,melanoma,mel,450,600,True,4
+ISIC_0027788.jpg,ds/img/ISIC_0027788.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0032907.jpg,ds/img/ISIC_0032907.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025675.jpg,ds/img/ISIC_0025675.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026209.jpg,ds/img/ISIC_0026209.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031040.jpg,ds/img/ISIC_0031040.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0033326.jpg,ds/img/ISIC_0033326.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0034039.jpg,ds/img/ISIC_0034039.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033594.jpg,ds/img/ISIC_0033594.jpg,melanoma,mel,450,600,True,4
+ISIC_0026810.jpg,ds/img/ISIC_0026810.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026225.jpg,ds/img/ISIC_0026225.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032695.jpg,ds/img/ISIC_0032695.jpg,melanoma,mel,450,600,True,4
+ISIC_0030984.jpg,ds/img/ISIC_0030984.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028369.jpg,ds/img/ISIC_0028369.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031554.jpg,ds/img/ISIC_0031554.jpg,melanoma,mel,450,600,True,4
+ISIC_0026025.jpg,ds/img/ISIC_0026025.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0034071.jpg,ds/img/ISIC_0034071.jpg,melanoma,mel,450,600,True,4
+ISIC_0031340.jpg,ds/img/ISIC_0031340.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033195.jpg,ds/img/ISIC_0033195.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0030551.jpg,ds/img/ISIC_0030551.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025563.jpg,ds/img/ISIC_0025563.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030788.jpg,ds/img/ISIC_0030788.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0034135.jpg,ds/img/ISIC_0034135.jpg,dermatofibroma,df,450,600,True,3
+ISIC_0031766.jpg,ds/img/ISIC_0031766.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0033892.jpg,ds/img/ISIC_0033892.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029151.jpg,ds/img/ISIC_0029151.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024408.jpg,ds/img/ISIC_0024408.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0025016.jpg,ds/img/ISIC_0025016.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0027312.jpg,ds/img/ISIC_0027312.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026894.jpg,ds/img/ISIC_0026894.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029706.jpg,ds/img/ISIC_0029706.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025117.jpg,ds/img/ISIC_0025117.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028189.jpg,ds/img/ISIC_0028189.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033516.jpg,ds/img/ISIC_0033516.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030196.jpg,ds/img/ISIC_0030196.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027864.jpg,ds/img/ISIC_0027864.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024827.jpg,ds/img/ISIC_0024827.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030735.jpg,ds/img/ISIC_0030735.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025487.jpg,ds/img/ISIC_0025487.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031131.jpg,ds/img/ISIC_0031131.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025334.jpg,ds/img/ISIC_0025334.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030773.jpg,ds/img/ISIC_0030773.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0034248.jpg,ds/img/ISIC_0034248.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027173.jpg,ds/img/ISIC_0027173.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031222.jpg,ds/img/ISIC_0031222.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0034092.jpg,ds/img/ISIC_0034092.jpg,melanoma,mel,450,600,True,4
+ISIC_0032951.jpg,ds/img/ISIC_0032951.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033345.jpg,ds/img/ISIC_0033345.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032141.jpg,ds/img/ISIC_0032141.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028003.jpg,ds/img/ISIC_0028003.jpg,melanoma,mel,450,600,True,4
+ISIC_0028027.jpg,ds/img/ISIC_0028027.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030133.jpg,ds/img/ISIC_0030133.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0031798.jpg,ds/img/ISIC_0031798.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027784.jpg,ds/img/ISIC_0027784.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027906.jpg,ds/img/ISIC_0027906.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026202.jpg,ds/img/ISIC_0026202.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030897.jpg,ds/img/ISIC_0030897.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026437.jpg,ds/img/ISIC_0026437.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024810.jpg,ds/img/ISIC_0024810.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030112.jpg,ds/img/ISIC_0030112.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031160.jpg,ds/img/ISIC_0031160.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026310.jpg,ds/img/ISIC_0026310.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033822.jpg,ds/img/ISIC_0033822.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032793.jpg,ds/img/ISIC_0032793.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026528.jpg,ds/img/ISIC_0026528.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0029370.jpg,ds/img/ISIC_0029370.jpg,melanoma,mel,450,600,True,4
+ISIC_0031491.jpg,ds/img/ISIC_0031491.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030248.jpg,ds/img/ISIC_0030248.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026587.jpg,ds/img/ISIC_0026587.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032608.jpg,ds/img/ISIC_0032608.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026459.jpg,ds/img/ISIC_0026459.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031541.jpg,ds/img/ISIC_0031541.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027186.jpg,ds/img/ISIC_0027186.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031058.jpg,ds/img/ISIC_0031058.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024740.jpg,ds/img/ISIC_0024740.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0030364.jpg,ds/img/ISIC_0030364.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028884.jpg,ds/img/ISIC_0028884.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031853.jpg,ds/img/ISIC_0031853.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0027196.jpg,ds/img/ISIC_0027196.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033283.jpg,ds/img/ISIC_0033283.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030207.jpg,ds/img/ISIC_0030207.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0027634.jpg,ds/img/ISIC_0027634.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033159.jpg,ds/img/ISIC_0033159.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026799.jpg,ds/img/ISIC_0026799.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028207.jpg,ds/img/ISIC_0028207.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029854.jpg,ds/img/ISIC_0029854.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027743.jpg,ds/img/ISIC_0027743.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029296.jpg,ds/img/ISIC_0029296.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032538.jpg,ds/img/ISIC_0032538.jpg,vascular lesions,vasc,450,600,True,6
+ISIC_0031581.jpg,ds/img/ISIC_0031581.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027961.jpg,ds/img/ISIC_0027961.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024420.jpg,ds/img/ISIC_0024420.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0033674.jpg,ds/img/ISIC_0033674.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029395.jpg,ds/img/ISIC_0029395.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026282.jpg,ds/img/ISIC_0026282.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0026279.jpg,ds/img/ISIC_0026279.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030908.jpg,ds/img/ISIC_0030908.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027211.jpg,ds/img/ISIC_0027211.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032900.jpg,ds/img/ISIC_0032900.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030586.jpg,ds/img/ISIC_0030586.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0032870.jpg,ds/img/ISIC_0032870.jpg,melanoma,mel,450,600,True,4
+ISIC_0026292.jpg,ds/img/ISIC_0026292.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025748.jpg,ds/img/ISIC_0025748.jpg,melanoma,mel,450,600,True,4
+ISIC_0032656.jpg,ds/img/ISIC_0032656.jpg,melanoma,mel,450,600,True,4
+ISIC_0030588.jpg,ds/img/ISIC_0030588.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027627.jpg,ds/img/ISIC_0027627.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033738.jpg,ds/img/ISIC_0033738.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026782.jpg,ds/img/ISIC_0026782.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028511.jpg,ds/img/ISIC_0028511.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0027163.jpg,ds/img/ISIC_0027163.jpg,melanoma,mel,450,600,True,4
+ISIC_0031184.jpg,ds/img/ISIC_0031184.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027825.jpg,ds/img/ISIC_0027825.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0032173.jpg,ds/img/ISIC_0032173.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0031651.jpg,ds/img/ISIC_0031651.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0024659.jpg,ds/img/ISIC_0024659.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031824.jpg,ds/img/ISIC_0031824.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0031910.jpg,ds/img/ISIC_0031910.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028714.jpg,ds/img/ISIC_0028714.jpg,vascular lesions,vasc,450,600,True,6
+ISIC_0030171.jpg,ds/img/ISIC_0030171.jpg,melanoma,mel,450,600,True,4
+ISIC_0027028.jpg,ds/img/ISIC_0027028.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027093.jpg,ds/img/ISIC_0027093.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0029689.jpg,ds/img/ISIC_0029689.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032427.jpg,ds/img/ISIC_0032427.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0034029.jpg,ds/img/ISIC_0034029.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030050.jpg,ds/img/ISIC_0030050.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024574.jpg,ds/img/ISIC_0024574.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026746.jpg,ds/img/ISIC_0026746.jpg,melanoma,mel,450,600,True,4
+ISIC_0030873.jpg,ds/img/ISIC_0030873.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024507.jpg,ds/img/ISIC_0024507.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024544.jpg,ds/img/ISIC_0024544.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025588.jpg,ds/img/ISIC_0025588.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028673.jpg,ds/img/ISIC_0028673.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027450.jpg,ds/img/ISIC_0027450.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026264.jpg,ds/img/ISIC_0026264.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027234.jpg,ds/img/ISIC_0027234.jpg,melanoma,mel,450,600,True,4
+ISIC_0026277.jpg,ds/img/ISIC_0026277.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0033853.jpg,ds/img/ISIC_0033853.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0026412.jpg,ds/img/ISIC_0026412.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033681.jpg,ds/img/ISIC_0033681.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030663.jpg,ds/img/ISIC_0030663.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029809.jpg,ds/img/ISIC_0029809.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029798.jpg,ds/img/ISIC_0029798.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026495.jpg,ds/img/ISIC_0026495.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032092.jpg,ds/img/ISIC_0032092.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0030091.jpg,ds/img/ISIC_0030091.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027708.jpg,ds/img/ISIC_0027708.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0034202.jpg,ds/img/ISIC_0034202.jpg,melanoma,mel,450,600,True,4
+ISIC_0031967.jpg,ds/img/ISIC_0031967.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0027032.jpg,ds/img/ISIC_0027032.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032614.jpg,ds/img/ISIC_0032614.jpg,vascular lesions,vasc,450,600,True,6
+ISIC_0027294.jpg,ds/img/ISIC_0027294.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0031948.jpg,ds/img/ISIC_0031948.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028617.jpg,ds/img/ISIC_0028617.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031530.jpg,ds/img/ISIC_0031530.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031102.jpg,ds/img/ISIC_0031102.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028756.jpg,ds/img/ISIC_0028756.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031039.jpg,ds/img/ISIC_0031039.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029886.jpg,ds/img/ISIC_0029886.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028398.jpg,ds/img/ISIC_0028398.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030896.jpg,ds/img/ISIC_0030896.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030163.jpg,ds/img/ISIC_0030163.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030940.jpg,ds/img/ISIC_0030940.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029171.jpg,ds/img/ISIC_0029171.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027205.jpg,ds/img/ISIC_0027205.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033795.jpg,ds/img/ISIC_0033795.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027422.jpg,ds/img/ISIC_0027422.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029127.jpg,ds/img/ISIC_0029127.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033905.jpg,ds/img/ISIC_0033905.jpg,melanoma,mel,450,600,True,4
+ISIC_0031484.jpg,ds/img/ISIC_0031484.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028171.jpg,ds/img/ISIC_0028171.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029032.jpg,ds/img/ISIC_0029032.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0029161.jpg,ds/img/ISIC_0029161.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0033213.jpg,ds/img/ISIC_0033213.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025831.jpg,ds/img/ISIC_0025831.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0031981.jpg,ds/img/ISIC_0031981.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029916.jpg,ds/img/ISIC_0029916.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027213.jpg,ds/img/ISIC_0027213.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028954.jpg,ds/img/ISIC_0028954.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028609.jpg,ds/img/ISIC_0028609.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030352.jpg,ds/img/ISIC_0030352.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0026034.jpg,ds/img/ISIC_0026034.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029367.jpg,ds/img/ISIC_0029367.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0034228.jpg,ds/img/ISIC_0034228.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025417.jpg,ds/img/ISIC_0025417.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0025786.jpg,ds/img/ISIC_0025786.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031289.jpg,ds/img/ISIC_0031289.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0025395.jpg,ds/img/ISIC_0025395.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026913.jpg,ds/img/ISIC_0026913.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024395.jpg,ds/img/ISIC_0024395.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025766.jpg,ds/img/ISIC_0025766.jpg,melanoma,mel,450,600,True,4
+ISIC_0029739.jpg,ds/img/ISIC_0029739.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033355.jpg,ds/img/ISIC_0033355.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028035.jpg,ds/img/ISIC_0028035.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0026035.jpg,ds/img/ISIC_0026035.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027043.jpg,ds/img/ISIC_0027043.jpg,melanoma,mel,450,600,True,4
+ISIC_0024685.jpg,ds/img/ISIC_0024685.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031869.jpg,ds/img/ISIC_0031869.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031069.jpg,ds/img/ISIC_0031069.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024728.jpg,ds/img/ISIC_0024728.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027744.jpg,ds/img/ISIC_0027744.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0032878.jpg,ds/img/ISIC_0032878.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030001.jpg,ds/img/ISIC_0030001.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031092.jpg,ds/img/ISIC_0031092.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033930.jpg,ds/img/ISIC_0033930.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028310.jpg,ds/img/ISIC_0028310.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028543.jpg,ds/img/ISIC_0028543.jpg,melanoma,mel,450,600,True,4
+ISIC_0026038.jpg,ds/img/ISIC_0026038.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026659.jpg,ds/img/ISIC_0026659.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033845.jpg,ds/img/ISIC_0033845.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0034156.jpg,ds/img/ISIC_0034156.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029567.jpg,ds/img/ISIC_0029567.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0034065.jpg,ds/img/ISIC_0034065.jpg,melanoma,mel,450,600,True,4
+ISIC_0026588.jpg,ds/img/ISIC_0026588.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0034199.jpg,ds/img/ISIC_0034199.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032643.jpg,ds/img/ISIC_0032643.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0026509.jpg,ds/img/ISIC_0026509.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030201.jpg,ds/img/ISIC_0030201.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029195.jpg,ds/img/ISIC_0029195.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0031479.jpg,ds/img/ISIC_0031479.jpg,melanoma,mel,450,600,True,4
+ISIC_0032283.jpg,ds/img/ISIC_0032283.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0028373.jpg,ds/img/ISIC_0028373.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029507.jpg,ds/img/ISIC_0029507.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029382.jpg,ds/img/ISIC_0029382.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024785.jpg,ds/img/ISIC_0024785.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025480.jpg,ds/img/ISIC_0025480.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024604.jpg,ds/img/ISIC_0024604.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028453.jpg,ds/img/ISIC_0028453.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026276.jpg,ds/img/ISIC_0026276.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0024650.jpg,ds/img/ISIC_0024650.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027932.jpg,ds/img/ISIC_0027932.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032368.jpg,ds/img/ISIC_0032368.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027919.jpg,ds/img/ISIC_0027919.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027514.jpg,ds/img/ISIC_0027514.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033719.jpg,ds/img/ISIC_0033719.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024451.jpg,ds/img/ISIC_0024451.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025936.jpg,ds/img/ISIC_0025936.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030052.jpg,ds/img/ISIC_0030052.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032867.jpg,ds/img/ISIC_0032867.jpg,vascular lesions,vasc,450,600,True,6
+ISIC_0031803.jpg,ds/img/ISIC_0031803.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030089.jpg,ds/img/ISIC_0030089.jpg,melanoma,mel,450,600,True,4
+ISIC_0026830.jpg,ds/img/ISIC_0026830.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024799.jpg,ds/img/ISIC_0024799.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0031152.jpg,ds/img/ISIC_0031152.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032650.jpg,ds/img/ISIC_0032650.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027921.jpg,ds/img/ISIC_0027921.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025093.jpg,ds/img/ISIC_0025093.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028064.jpg,ds/img/ISIC_0028064.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032142.jpg,ds/img/ISIC_0032142.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026309.jpg,ds/img/ISIC_0026309.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029311.jpg,ds/img/ISIC_0029311.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0025323.jpg,ds/img/ISIC_0025323.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024424.jpg,ds/img/ISIC_0024424.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032579.jpg,ds/img/ISIC_0032579.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032316.jpg,ds/img/ISIC_0032316.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0028285.jpg,ds/img/ISIC_0028285.jpg,melanoma,mel,450,600,True,4
+ISIC_0025380.jpg,ds/img/ISIC_0025380.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030170.jpg,ds/img/ISIC_0030170.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033113.jpg,ds/img/ISIC_0033113.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026546.jpg,ds/img/ISIC_0026546.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027115.jpg,ds/img/ISIC_0027115.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032422.jpg,ds/img/ISIC_0032422.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0034317.jpg,ds/img/ISIC_0034317.jpg,melanoma,mel,450,600,True,4
+ISIC_0027868.jpg,ds/img/ISIC_0027868.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031763.jpg,ds/img/ISIC_0031763.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026582.jpg,ds/img/ISIC_0026582.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027610.jpg,ds/img/ISIC_0027610.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032954.jpg,ds/img/ISIC_0032954.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025616.jpg,ds/img/ISIC_0025616.jpg,melanoma,mel,450,600,True,4
+ISIC_0025162.jpg,ds/img/ISIC_0025162.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029703.jpg,ds/img/ISIC_0029703.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025907.jpg,ds/img/ISIC_0025907.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032601.jpg,ds/img/ISIC_0032601.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029693.jpg,ds/img/ISIC_0029693.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032468.jpg,ds/img/ISIC_0032468.jpg,dermatofibroma,df,450,600,True,3
+ISIC_0024767.jpg,ds/img/ISIC_0024767.jpg,melanoma,mel,450,600,True,4
+ISIC_0029976.jpg,ds/img/ISIC_0029976.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024989.jpg,ds/img/ISIC_0024989.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032420.jpg,ds/img/ISIC_0032420.jpg,melanoma,mel,450,600,True,4
+ISIC_0030466.jpg,ds/img/ISIC_0030466.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026375.jpg,ds/img/ISIC_0026375.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029197.jpg,ds/img/ISIC_0029197.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025261.jpg,ds/img/ISIC_0025261.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0034162.jpg,ds/img/ISIC_0034162.jpg,melanoma,mel,450,600,True,4
+ISIC_0032881.jpg,ds/img/ISIC_0032881.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025014.jpg,ds/img/ISIC_0025014.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029577.jpg,ds/img/ISIC_0029577.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030040.jpg,ds/img/ISIC_0030040.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029861.jpg,ds/img/ISIC_0029861.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028985.jpg,ds/img/ISIC_0028985.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025661.jpg,ds/img/ISIC_0025661.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0024720.jpg,ds/img/ISIC_0024720.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030767.jpg,ds/img/ISIC_0030767.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0031187.jpg,ds/img/ISIC_0031187.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030878.jpg,ds/img/ISIC_0030878.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033788.jpg,ds/img/ISIC_0033788.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030407.jpg,ds/img/ISIC_0030407.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029093.jpg,ds/img/ISIC_0029093.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031351.jpg,ds/img/ISIC_0031351.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0032301.jpg,ds/img/ISIC_0032301.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025977.jpg,ds/img/ISIC_0025977.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033528.jpg,ds/img/ISIC_0033528.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0031894.jpg,ds/img/ISIC_0031894.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028699.jpg,ds/img/ISIC_0028699.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025065.jpg,ds/img/ISIC_0025065.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029496.jpg,ds/img/ISIC_0029496.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024411.jpg,ds/img/ISIC_0024411.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0030278.jpg,ds/img/ISIC_0030278.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032519.jpg,ds/img/ISIC_0032519.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030078.jpg,ds/img/ISIC_0030078.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031553.jpg,ds/img/ISIC_0031553.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024518.jpg,ds/img/ISIC_0024518.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032086.jpg,ds/img/ISIC_0032086.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030010.jpg,ds/img/ISIC_0030010.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0032615.jpg,ds/img/ISIC_0032615.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029737.jpg,ds/img/ISIC_0029737.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024456.jpg,ds/img/ISIC_0024456.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027323.jpg,ds/img/ISIC_0027323.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027644.jpg,ds/img/ISIC_0027644.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027333.jpg,ds/img/ISIC_0027333.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031284.jpg,ds/img/ISIC_0031284.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0030969.jpg,ds/img/ISIC_0030969.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026444.jpg,ds/img/ISIC_0026444.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0027531.jpg,ds/img/ISIC_0027531.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0029405.jpg,ds/img/ISIC_0029405.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031618.jpg,ds/img/ISIC_0031618.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033999.jpg,ds/img/ISIC_0033999.jpg,melanoma,mel,450,600,True,4
+ISIC_0031353.jpg,ds/img/ISIC_0031353.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025545.jpg,ds/img/ISIC_0025545.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024429.jpg,ds/img/ISIC_0024429.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026293.jpg,ds/img/ISIC_0026293.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032894.jpg,ds/img/ISIC_0032894.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0028925.jpg,ds/img/ISIC_0028925.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0034192.jpg,ds/img/ISIC_0034192.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027222.jpg,ds/img/ISIC_0027222.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024490.jpg,ds/img/ISIC_0024490.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0029506.jpg,ds/img/ISIC_0029506.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0034222.jpg,ds/img/ISIC_0034222.jpg,melanoma,mel,450,600,True,4
+ISIC_0026178.jpg,ds/img/ISIC_0026178.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0032313.jpg,ds/img/ISIC_0032313.jpg,melanoma,mel,450,600,True,4
+ISIC_0030199.jpg,ds/img/ISIC_0030199.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028748.jpg,ds/img/ISIC_0028748.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030305.jpg,ds/img/ISIC_0030305.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030894.jpg,ds/img/ISIC_0030894.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024951.jpg,ds/img/ISIC_0024951.jpg,melanoma,mel,450,600,True,4
+ISIC_0027688.jpg,ds/img/ISIC_0027688.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025596.jpg,ds/img/ISIC_0025596.jpg,vascular lesions,vasc,450,600,True,6
+ISIC_0031390.jpg,ds/img/ISIC_0031390.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025983.jpg,ds/img/ISIC_0025983.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0034049.jpg,ds/img/ISIC_0034049.jpg,melanoma,mel,450,600,True,4
+ISIC_0028823.jpg,ds/img/ISIC_0028823.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033236.jpg,ds/img/ISIC_0033236.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028615.jpg,ds/img/ISIC_0028615.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0028550.jpg,ds/img/ISIC_0028550.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0025551.jpg,ds/img/ISIC_0025551.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027813.jpg,ds/img/ISIC_0027813.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027776.jpg,ds/img/ISIC_0027776.jpg,melanoma,mel,450,600,True,4
+ISIC_0026687.jpg,ds/img/ISIC_0026687.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0033659.jpg,ds/img/ISIC_0033659.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0029009.jpg,ds/img/ISIC_0029009.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026705.jpg,ds/img/ISIC_0026705.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029258.jpg,ds/img/ISIC_0029258.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028213.jpg,ds/img/ISIC_0028213.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026074.jpg,ds/img/ISIC_0026074.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0027025.jpg,ds/img/ISIC_0027025.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0029580.jpg,ds/img/ISIC_0029580.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0029217.jpg,ds/img/ISIC_0029217.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0026917.jpg,ds/img/ISIC_0026917.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030509.jpg,ds/img/ISIC_0030509.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025993.jpg,ds/img/ISIC_0025993.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029652.jpg,ds/img/ISIC_0029652.jpg,melanoma,mel,450,600,True,4
+ISIC_0025618.jpg,ds/img/ISIC_0025618.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028477.jpg,ds/img/ISIC_0028477.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025561.jpg,ds/img/ISIC_0025561.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028865.jpg,ds/img/ISIC_0028865.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032391.jpg,ds/img/ISIC_0032391.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029786.jpg,ds/img/ISIC_0029786.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028217.jpg,ds/img/ISIC_0028217.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032710.jpg,ds/img/ISIC_0032710.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024533.jpg,ds/img/ISIC_0024533.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028301.jpg,ds/img/ISIC_0028301.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032221.jpg,ds/img/ISIC_0032221.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029838.jpg,ds/img/ISIC_0029838.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026051.jpg,ds/img/ISIC_0026051.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033036.jpg,ds/img/ISIC_0033036.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032761.jpg,ds/img/ISIC_0032761.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031157.jpg,ds/img/ISIC_0031157.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024512.jpg,ds/img/ISIC_0024512.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031975.jpg,ds/img/ISIC_0031975.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030549.jpg,ds/img/ISIC_0030549.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0032751.jpg,ds/img/ISIC_0032751.jpg,melanoma,mel,450,600,True,4
+ISIC_0032565.jpg,ds/img/ISIC_0032565.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025802.jpg,ds/img/ISIC_0025802.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031991.jpg,ds/img/ISIC_0031991.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028444.jpg,ds/img/ISIC_0028444.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025426.jpg,ds/img/ISIC_0025426.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029162.jpg,ds/img/ISIC_0029162.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025538.jpg,ds/img/ISIC_0025538.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033522.jpg,ds/img/ISIC_0033522.jpg,melanoma,mel,450,600,True,4
+ISIC_0025040.jpg,ds/img/ISIC_0025040.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0025583.jpg,ds/img/ISIC_0025583.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0032116.jpg,ds/img/ISIC_0032116.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0029942.jpg,ds/img/ISIC_0029942.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028326.jpg,ds/img/ISIC_0028326.jpg,melanoma,mel,450,600,True,4
+ISIC_0030475.jpg,ds/img/ISIC_0030475.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032129.jpg,ds/img/ISIC_0032129.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0029158.jpg,ds/img/ISIC_0029158.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031847.jpg,ds/img/ISIC_0031847.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027975.jpg,ds/img/ISIC_0027975.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0034188.jpg,ds/img/ISIC_0034188.jpg,melanoma,mel,450,600,True,4
+ISIC_0031959.jpg,ds/img/ISIC_0031959.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033886.jpg,ds/img/ISIC_0033886.jpg,melanoma,mel,450,600,True,4
+ISIC_0027920.jpg,ds/img/ISIC_0027920.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0027789.jpg,ds/img/ISIC_0027789.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029379.jpg,ds/img/ISIC_0029379.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027085.jpg,ds/img/ISIC_0027085.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027849.jpg,ds/img/ISIC_0027849.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024548.jpg,ds/img/ISIC_0024548.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025986.jpg,ds/img/ISIC_0025986.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0028095.jpg,ds/img/ISIC_0028095.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0033632.jpg,ds/img/ISIC_0033632.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033183.jpg,ds/img/ISIC_0033183.jpg,melanoma,mel,450,600,True,4
+ISIC_0030111.jpg,ds/img/ISIC_0030111.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0034129.jpg,ds/img/ISIC_0034129.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025438.jpg,ds/img/ISIC_0025438.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033007.jpg,ds/img/ISIC_0033007.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030029.jpg,ds/img/ISIC_0030029.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027418.jpg,ds/img/ISIC_0027418.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024626.jpg,ds/img/ISIC_0024626.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0024803.jpg,ds/img/ISIC_0024803.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029672.jpg,ds/img/ISIC_0029672.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025725.jpg,ds/img/ISIC_0025725.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032979.jpg,ds/img/ISIC_0032979.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029204.jpg,ds/img/ISIC_0029204.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028430.jpg,ds/img/ISIC_0028430.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029374.jpg,ds/img/ISIC_0029374.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032333.jpg,ds/img/ISIC_0032333.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031109.jpg,ds/img/ISIC_0031109.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027930.jpg,ds/img/ISIC_0027930.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0029433.jpg,ds/img/ISIC_0029433.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031993.jpg,ds/img/ISIC_0031993.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0026454.jpg,ds/img/ISIC_0026454.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032452.jpg,ds/img/ISIC_0032452.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030902.jpg,ds/img/ISIC_0030902.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029475.jpg,ds/img/ISIC_0029475.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032480.jpg,ds/img/ISIC_0032480.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031100.jpg,ds/img/ISIC_0031100.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029895.jpg,ds/img/ISIC_0029895.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029463.jpg,ds/img/ISIC_0029463.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028108.jpg,ds/img/ISIC_0028108.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029605.jpg,ds/img/ISIC_0029605.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025368.jpg,ds/img/ISIC_0025368.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0025678.jpg,ds/img/ISIC_0025678.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031259.jpg,ds/img/ISIC_0031259.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033586.jpg,ds/img/ISIC_0033586.jpg,melanoma,mel,450,600,True,4
+ISIC_0026023.jpg,ds/img/ISIC_0026023.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033504.jpg,ds/img/ISIC_0033504.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0033819.jpg,ds/img/ISIC_0033819.jpg,melanoma,mel,450,600,True,4
+ISIC_0028924.jpg,ds/img/ISIC_0028924.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027309.jpg,ds/img/ISIC_0027309.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033962.jpg,ds/img/ISIC_0033962.jpg,melanoma,mel,450,600,True,4
+ISIC_0030313.jpg,ds/img/ISIC_0030313.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033557.jpg,ds/img/ISIC_0033557.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026628.jpg,ds/img/ISIC_0026628.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025902.jpg,ds/img/ISIC_0025902.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027069.jpg,ds/img/ISIC_0027069.jpg,melanoma,mel,450,600,True,4
+ISIC_0025693.jpg,ds/img/ISIC_0025693.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0029633.jpg,ds/img/ISIC_0029633.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032356.jpg,ds/img/ISIC_0032356.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0024917.jpg,ds/img/ISIC_0024917.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027239.jpg,ds/img/ISIC_0027239.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0031812.jpg,ds/img/ISIC_0031812.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0030026.jpg,ds/img/ISIC_0030026.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0025478.jpg,ds/img/ISIC_0025478.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027831.jpg,ds/img/ISIC_0027831.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0031219.jpg,ds/img/ISIC_0031219.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029510.jpg,ds/img/ISIC_0029510.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029300.jpg,ds/img/ISIC_0029300.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026326.jpg,ds/img/ISIC_0026326.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029253.jpg,ds/img/ISIC_0029253.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029521.jpg,ds/img/ISIC_0029521.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032717.jpg,ds/img/ISIC_0032717.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029906.jpg,ds/img/ISIC_0029906.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032036.jpg,ds/img/ISIC_0032036.jpg,melanoma,mel,450,600,True,4
+ISIC_0029361.jpg,ds/img/ISIC_0029361.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031594.jpg,ds/img/ISIC_0031594.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031226.jpg,ds/img/ISIC_0031226.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0031547.jpg,ds/img/ISIC_0031547.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025751.jpg,ds/img/ISIC_0025751.jpg,melanoma,mel,450,600,True,4
+ISIC_0025931.jpg,ds/img/ISIC_0025931.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030124.jpg,ds/img/ISIC_0030124.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0030987.jpg,ds/img/ISIC_0030987.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025654.jpg,ds/img/ISIC_0025654.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0027351.jpg,ds/img/ISIC_0027351.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0034023.jpg,ds/img/ISIC_0034023.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025841.jpg,ds/img/ISIC_0025841.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025405.jpg,ds/img/ISIC_0025405.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033254.jpg,ds/img/ISIC_0033254.jpg,vascular lesions,vasc,450,600,True,6
+ISIC_0033382.jpg,ds/img/ISIC_0033382.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026576.jpg,ds/img/ISIC_0026576.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0026849.jpg,ds/img/ISIC_0026849.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0028390.jpg,ds/img/ISIC_0028390.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025234.jpg,ds/img/ISIC_0025234.jpg,melanoma,mel,450,600,True,4
+ISIC_0026697.jpg,ds/img/ISIC_0026697.jpg,melanoma,mel,450,600,True,4
+ISIC_0027305.jpg,ds/img/ISIC_0027305.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029857.jpg,ds/img/ISIC_0029857.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0028358.jpg,ds/img/ISIC_0028358.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025904.jpg,ds/img/ISIC_0025904.jpg,melanoma,mel,450,600,True,4
+ISIC_0027563.jpg,ds/img/ISIC_0027563.jpg,vascular lesions,vasc,450,600,True,6
+ISIC_0034013.jpg,ds/img/ISIC_0034013.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032218.jpg,ds/img/ISIC_0032218.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028353.jpg,ds/img/ISIC_0028353.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029323.jpg,ds/img/ISIC_0029323.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0033711.jpg,ds/img/ISIC_0033711.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029679.jpg,ds/img/ISIC_0029679.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031067.jpg,ds/img/ISIC_0031067.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025197.jpg,ds/img/ISIC_0025197.jpg,vascular lesions,vasc,450,600,True,6
+ISIC_0025627.jpg,ds/img/ISIC_0025627.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0032755.jpg,ds/img/ISIC_0032755.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026284.jpg,ds/img/ISIC_0026284.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028791.jpg,ds/img/ISIC_0028791.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026024.jpg,ds/img/ISIC_0026024.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029808.jpg,ds/img/ISIC_0029808.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033327.jpg,ds/img/ISIC_0033327.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024992.jpg,ds/img/ISIC_0024992.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027622.jpg,ds/img/ISIC_0027622.jpg,melanoma,mel,450,600,True,4
+ISIC_0034238.jpg,ds/img/ISIC_0034238.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027322.jpg,ds/img/ISIC_0027322.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028175.jpg,ds/img/ISIC_0028175.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033353.jpg,ds/img/ISIC_0033353.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028425.jpg,ds/img/ISIC_0028425.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026554.jpg,ds/img/ISIC_0026554.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024855.jpg,ds/img/ISIC_0024855.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0034262.jpg,ds/img/ISIC_0034262.jpg,melanoma,mel,450,600,True,4
+ISIC_0028490.jpg,ds/img/ISIC_0028490.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0030330.jpg,ds/img/ISIC_0030330.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033277.jpg,ds/img/ISIC_0033277.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032462.jpg,ds/img/ISIC_0032462.jpg,melanoma,mel,450,600,True,4
+ISIC_0029954.jpg,ds/img/ISIC_0029954.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029254.jpg,ds/img/ISIC_0029254.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0034278.jpg,ds/img/ISIC_0034278.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033042.jpg,ds/img/ISIC_0033042.jpg,melanoma,mel,450,600,True,4
+ISIC_0028420.jpg,ds/img/ISIC_0028420.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030992.jpg,ds/img/ISIC_0030992.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027123.jpg,ds/img/ISIC_0027123.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028140.jpg,ds/img/ISIC_0028140.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029828.jpg,ds/img/ISIC_0029828.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033362.jpg,ds/img/ISIC_0033362.jpg,melanoma,mel,450,600,True,4
+ISIC_0024842.jpg,ds/img/ISIC_0024842.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0034021.jpg,ds/img/ISIC_0034021.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032702.jpg,ds/img/ISIC_0032702.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025319.jpg,ds/img/ISIC_0025319.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0029432.jpg,ds/img/ISIC_0029432.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033885.jpg,ds/img/ISIC_0033885.jpg,melanoma,mel,450,600,True,4
+ISIC_0027846.jpg,ds/img/ISIC_0027846.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0033141.jpg,ds/img/ISIC_0033141.jpg,melanoma,mel,450,600,True,4
+ISIC_0027346.jpg,ds/img/ISIC_0027346.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026367.jpg,ds/img/ISIC_0026367.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033110.jpg,ds/img/ISIC_0033110.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032919.jpg,ds/img/ISIC_0032919.jpg,vascular lesions,vasc,450,600,True,6
+ISIC_0031755.jpg,ds/img/ISIC_0031755.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033233.jpg,ds/img/ISIC_0033233.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030795.jpg,ds/img/ISIC_0030795.jpg,melanoma,mel,450,600,True,4
+ISIC_0033820.jpg,ds/img/ISIC_0033820.jpg,melanoma,mel,450,600,True,4
+ISIC_0030327.jpg,ds/img/ISIC_0030327.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032284.jpg,ds/img/ISIC_0032284.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026585.jpg,ds/img/ISIC_0026585.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030627.jpg,ds/img/ISIC_0030627.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027857.jpg,ds/img/ISIC_0027857.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028830.jpg,ds/img/ISIC_0028830.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0025876.jpg,ds/img/ISIC_0025876.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0030574.jpg,ds/img/ISIC_0030574.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0032347.jpg,ds/img/ISIC_0032347.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024822.jpg,ds/img/ISIC_0024822.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027893.jpg,ds/img/ISIC_0027893.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0028911.jpg,ds/img/ISIC_0028911.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030694.jpg,ds/img/ISIC_0030694.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031005.jpg,ds/img/ISIC_0031005.jpg,melanoma,mel,450,600,True,4
+ISIC_0025260.jpg,ds/img/ISIC_0025260.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0033832.jpg,ds/img/ISIC_0033832.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025824.jpg,ds/img/ISIC_0025824.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0028953.jpg,ds/img/ISIC_0028953.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033921.jpg,ds/img/ISIC_0033921.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029933.jpg,ds/img/ISIC_0029933.jpg,melanoma,mel,450,600,True,4
+ISIC_0027026.jpg,ds/img/ISIC_0027026.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0025807.jpg,ds/img/ISIC_0025807.jpg,vascular lesions,vasc,450,600,True,6
+ISIC_0028564.jpg,ds/img/ISIC_0028564.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025043.jpg,ds/img/ISIC_0025043.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027342.jpg,ds/img/ISIC_0027342.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030457.jpg,ds/img/ISIC_0030457.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032518.jpg,ds/img/ISIC_0032518.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032177.jpg,ds/img/ISIC_0032177.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028118.jpg,ds/img/ISIC_0028118.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032966.jpg,ds/img/ISIC_0032966.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029184.jpg,ds/img/ISIC_0029184.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032186.jpg,ds/img/ISIC_0032186.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030823.jpg,ds/img/ISIC_0030823.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030718.jpg,ds/img/ISIC_0030718.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028409.jpg,ds/img/ISIC_0028409.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028491.jpg,ds/img/ISIC_0028491.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027663.jpg,ds/img/ISIC_0027663.jpg,melanoma,mel,450,600,True,4
+ISIC_0024873.jpg,ds/img/ISIC_0024873.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028971.jpg,ds/img/ISIC_0028971.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026417.jpg,ds/img/ISIC_0026417.jpg,dermatofibroma,df,450,600,True,3
+ISIC_0033430.jpg,ds/img/ISIC_0033430.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025932.jpg,ds/img/ISIC_0025932.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0031895.jpg,ds/img/ISIC_0031895.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030890.jpg,ds/img/ISIC_0030890.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033287.jpg,ds/img/ISIC_0033287.jpg,melanoma,mel,450,600,True,4
+ISIC_0029228.jpg,ds/img/ISIC_0029228.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028674.jpg,ds/img/ISIC_0028674.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032756.jpg,ds/img/ISIC_0032756.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0030690.jpg,ds/img/ISIC_0030690.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0026774.jpg,ds/img/ISIC_0026774.jpg,melanoma,mel,450,600,True,4
+ISIC_0028312.jpg,ds/img/ISIC_0028312.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030815.jpg,ds/img/ISIC_0030815.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031719.jpg,ds/img/ISIC_0031719.jpg,vascular lesions,vasc,450,600,True,6
+ISIC_0030854.jpg,ds/img/ISIC_0030854.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033548.jpg,ds/img/ISIC_0033548.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026753.jpg,ds/img/ISIC_0026753.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0034073.jpg,ds/img/ISIC_0034073.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027595.jpg,ds/img/ISIC_0027595.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0025293.jpg,ds/img/ISIC_0025293.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029660.jpg,ds/img/ISIC_0029660.jpg,melanoma,mel,450,600,True,4
+ISIC_0033849.jpg,ds/img/ISIC_0033849.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030944.jpg,ds/img/ISIC_0030944.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027268.jpg,ds/img/ISIC_0027268.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026907.jpg,ds/img/ISIC_0026907.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0025647.jpg,ds/img/ISIC_0025647.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032267.jpg,ds/img/ISIC_0032267.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031088.jpg,ds/img/ISIC_0031088.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0029978.jpg,ds/img/ISIC_0029978.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030685.jpg,ds/img/ISIC_0030685.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032962.jpg,ds/img/ISIC_0032962.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031256.jpg,ds/img/ISIC_0031256.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032073.jpg,ds/img/ISIC_0032073.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027240.jpg,ds/img/ISIC_0027240.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028956.jpg,ds/img/ISIC_0028956.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031118.jpg,ds/img/ISIC_0031118.jpg,melanoma,mel,450,600,True,4
+ISIC_0027098.jpg,ds/img/ISIC_0027098.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032748.jpg,ds/img/ISIC_0032748.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032292.jpg,ds/img/ISIC_0032292.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026203.jpg,ds/img/ISIC_0026203.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0033916.jpg,ds/img/ISIC_0033916.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026028.jpg,ds/img/ISIC_0026028.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028233.jpg,ds/img/ISIC_0028233.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0029650.jpg,ds/img/ISIC_0029650.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029651.jpg,ds/img/ISIC_0029651.jpg,melanoma,mel,450,600,True,4
+ISIC_0033846.jpg,ds/img/ISIC_0033846.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031776.jpg,ds/img/ISIC_0031776.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032514.jpg,ds/img/ISIC_0032514.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0030295.jpg,ds/img/ISIC_0030295.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032384.jpg,ds/img/ISIC_0032384.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0025956.jpg,ds/img/ISIC_0025956.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030126.jpg,ds/img/ISIC_0030126.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030556.jpg,ds/img/ISIC_0030556.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033047.jpg,ds/img/ISIC_0033047.jpg,melanoma,mel,450,600,True,4
+ISIC_0028652.jpg,ds/img/ISIC_0028652.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0029996.jpg,ds/img/ISIC_0029996.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027265.jpg,ds/img/ISIC_0027265.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029347.jpg,ds/img/ISIC_0029347.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026783.jpg,ds/img/ISIC_0026783.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0026251.jpg,ds/img/ISIC_0026251.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028424.jpg,ds/img/ISIC_0028424.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030215.jpg,ds/img/ISIC_0030215.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032824.jpg,ds/img/ISIC_0032824.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033532.jpg,ds/img/ISIC_0033532.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027646.jpg,ds/img/ISIC_0027646.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030338.jpg,ds/img/ISIC_0030338.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026108.jpg,ds/img/ISIC_0026108.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030341.jpg,ds/img/ISIC_0030341.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0032926.jpg,ds/img/ISIC_0032926.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028165.jpg,ds/img/ISIC_0028165.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0026725.jpg,ds/img/ISIC_0026725.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024356.jpg,ds/img/ISIC_0024356.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028114.jpg,ds/img/ISIC_0028114.jpg,melanoma,mel,450,600,True,4
+ISIC_0032335.jpg,ds/img/ISIC_0032335.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0033514.jpg,ds/img/ISIC_0033514.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032978.jpg,ds/img/ISIC_0032978.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0033700.jpg,ds/img/ISIC_0033700.jpg,melanoma,mel,450,600,True,4
+ISIC_0031120.jpg,ds/img/ISIC_0031120.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033744.jpg,ds/img/ISIC_0033744.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0029155.jpg,ds/img/ISIC_0029155.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032089.jpg,ds/img/ISIC_0032089.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0034152.jpg,ds/img/ISIC_0034152.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028529.jpg,ds/img/ISIC_0028529.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030571.jpg,ds/img/ISIC_0030571.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024373.jpg,ds/img/ISIC_0024373.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032575.jpg,ds/img/ISIC_0032575.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032432.jpg,ds/img/ISIC_0032432.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028519.jpg,ds/img/ISIC_0028519.jpg,melanoma,mel,450,600,True,4
+ISIC_0033176.jpg,ds/img/ISIC_0033176.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027354.jpg,ds/img/ISIC_0027354.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0026468.jpg,ds/img/ISIC_0026468.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0031413.jpg,ds/img/ISIC_0031413.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0027404.jpg,ds/img/ISIC_0027404.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033151.jpg,ds/img/ISIC_0033151.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0032023.jpg,ds/img/ISIC_0032023.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030612.jpg,ds/img/ISIC_0030612.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026651.jpg,ds/img/ISIC_0026651.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032406.jpg,ds/img/ISIC_0032406.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031978.jpg,ds/img/ISIC_0031978.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028521.jpg,ds/img/ISIC_0028521.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031555.jpg,ds/img/ISIC_0031555.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032093.jpg,ds/img/ISIC_0032093.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033515.jpg,ds/img/ISIC_0033515.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031286.jpg,ds/img/ISIC_0031286.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0033574.jpg,ds/img/ISIC_0033574.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029307.jpg,ds/img/ISIC_0029307.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027917.jpg,ds/img/ISIC_0027917.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030593.jpg,ds/img/ISIC_0030593.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024441.jpg,ds/img/ISIC_0024441.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030159.jpg,ds/img/ISIC_0030159.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024584.jpg,ds/img/ISIC_0024584.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031687.jpg,ds/img/ISIC_0031687.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032367.jpg,ds/img/ISIC_0032367.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033763.jpg,ds/img/ISIC_0033763.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028559.jpg,ds/img/ISIC_0028559.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033249.jpg,ds/img/ISIC_0033249.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032430.jpg,ds/img/ISIC_0032430.jpg,melanoma,mel,450,600,True,4
+ISIC_0031866.jpg,ds/img/ISIC_0031866.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025946.jpg,ds/img/ISIC_0025946.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025663.jpg,ds/img/ISIC_0025663.jpg,melanoma,mel,450,600,True,4
+ISIC_0027554.jpg,ds/img/ISIC_0027554.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024857.jpg,ds/img/ISIC_0024857.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028315.jpg,ds/img/ISIC_0028315.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031352.jpg,ds/img/ISIC_0031352.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0032671.jpg,ds/img/ISIC_0032671.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033726.jpg,ds/img/ISIC_0033726.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029806.jpg,ds/img/ISIC_0029806.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028214.jpg,ds/img/ISIC_0028214.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030255.jpg,ds/img/ISIC_0030255.jpg,melanoma,mel,450,600,True,4
+ISIC_0034235.jpg,ds/img/ISIC_0034235.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0033983.jpg,ds/img/ISIC_0033983.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032102.jpg,ds/img/ISIC_0032102.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029877.jpg,ds/img/ISIC_0029877.jpg,vascular lesions,vasc,450,600,True,6
+ISIC_0026553.jpg,ds/img/ISIC_0026553.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0025536.jpg,ds/img/ISIC_0025536.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032560.jpg,ds/img/ISIC_0032560.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030031.jpg,ds/img/ISIC_0030031.jpg,melanoma,mel,450,600,True,4
+ISIC_0026087.jpg,ds/img/ISIC_0026087.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032402.jpg,ds/img/ISIC_0032402.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028012.jpg,ds/img/ISIC_0028012.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030952.jpg,ds/img/ISIC_0030952.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024880.jpg,ds/img/ISIC_0024880.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0027091.jpg,ds/img/ISIC_0027091.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024341.jpg,ds/img/ISIC_0024341.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024711.jpg,ds/img/ISIC_0024711.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0027817.jpg,ds/img/ISIC_0027817.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033538.jpg,ds/img/ISIC_0033538.jpg,melanoma,mel,450,600,True,4
+ISIC_0031271.jpg,ds/img/ISIC_0031271.jpg,dermatofibroma,df,450,600,True,3
+ISIC_0027898.jpg,ds/img/ISIC_0027898.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025593.jpg,ds/img/ISIC_0025593.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033395.jpg,ds/img/ISIC_0033395.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029555.jpg,ds/img/ISIC_0029555.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0026477.jpg,ds/img/ISIC_0026477.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0030968.jpg,ds/img/ISIC_0030968.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025071.jpg,ds/img/ISIC_0025071.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029896.jpg,ds/img/ISIC_0029896.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0034079.jpg,ds/img/ISIC_0034079.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024814.jpg,ds/img/ISIC_0024814.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0032789.jpg,ds/img/ISIC_0032789.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026286.jpg,ds/img/ISIC_0026286.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0028089.jpg,ds/img/ISIC_0028089.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033666.jpg,ds/img/ISIC_0033666.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0030443.jpg,ds/img/ISIC_0030443.jpg,melanoma,mel,450,600,True,4
+ISIC_0026828.jpg,ds/img/ISIC_0026828.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024771.jpg,ds/img/ISIC_0024771.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0031212.jpg,ds/img/ISIC_0031212.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0026231.jpg,ds/img/ISIC_0026231.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033314.jpg,ds/img/ISIC_0033314.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024351.jpg,ds/img/ISIC_0024351.jpg,melanoma,mel,450,600,True,4
+ISIC_0031481.jpg,ds/img/ISIC_0031481.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0034053.jpg,ds/img/ISIC_0034053.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033965.jpg,ds/img/ISIC_0033965.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032506.jpg,ds/img/ISIC_0032506.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026707.jpg,ds/img/ISIC_0026707.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033348.jpg,ds/img/ISIC_0033348.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025590.jpg,ds/img/ISIC_0025590.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032975.jpg,ds/img/ISIC_0032975.jpg,melanoma,mel,450,600,True,4
+ISIC_0033016.jpg,ds/img/ISIC_0033016.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033624.jpg,ds/img/ISIC_0033624.jpg,melanoma,mel,450,600,True,4
+ISIC_0030416.jpg,ds/img/ISIC_0030416.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027289.jpg,ds/img/ISIC_0027289.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027525.jpg,ds/img/ISIC_0027525.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0028096.jpg,ds/img/ISIC_0028096.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032308.jpg,ds/img/ISIC_0032308.jpg,melanoma,mel,450,600,True,4
+ISIC_0027835.jpg,ds/img/ISIC_0027835.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026957.jpg,ds/img/ISIC_0026957.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0031852.jpg,ds/img/ISIC_0031852.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0028506.jpg,ds/img/ISIC_0028506.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030105.jpg,ds/img/ISIC_0030105.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0027827.jpg,ds/img/ISIC_0027827.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030654.jpg,ds/img/ISIC_0030654.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027455.jpg,ds/img/ISIC_0027455.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0031923.jpg,ds/img/ISIC_0031923.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026370.jpg,ds/img/ISIC_0026370.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0034093.jpg,ds/img/ISIC_0034093.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0025233.jpg,ds/img/ISIC_0025233.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030396.jpg,ds/img/ISIC_0030396.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0028309.jpg,ds/img/ISIC_0028309.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0028135.jpg,ds/img/ISIC_0028135.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033485.jpg,ds/img/ISIC_0033485.jpg,melanoma,mel,450,600,True,4
+ISIC_0029481.jpg,ds/img/ISIC_0029481.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026364.jpg,ds/img/ISIC_0026364.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033344.jpg,ds/img/ISIC_0033344.jpg,melanoma,mel,450,600,True,4
+ISIC_0032037.jpg,ds/img/ISIC_0032037.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031682.jpg,ds/img/ISIC_0031682.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032361.jpg,ds/img/ISIC_0032361.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029138.jpg,ds/img/ISIC_0029138.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025920.jpg,ds/img/ISIC_0025920.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028331.jpg,ds/img/ISIC_0028331.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0029936.jpg,ds/img/ISIC_0029936.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025185.jpg,ds/img/ISIC_0025185.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025715.jpg,ds/img/ISIC_0025715.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032563.jpg,ds/img/ISIC_0032563.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0034191.jpg,ds/img/ISIC_0034191.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025356.jpg,ds/img/ISIC_0025356.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032823.jpg,ds/img/ISIC_0032823.jpg,melanoma,mel,450,600,True,4
+ISIC_0024516.jpg,ds/img/ISIC_0024516.jpg,melanoma,mel,450,600,True,4
+ISIC_0027221.jpg,ds/img/ISIC_0027221.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033735.jpg,ds/img/ISIC_0033735.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033799.jpg,ds/img/ISIC_0033799.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026172.jpg,ds/img/ISIC_0026172.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033245.jpg,ds/img/ISIC_0033245.jpg,melanoma,mel,450,600,True,4
+ISIC_0030749.jpg,ds/img/ISIC_0030749.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028950.jpg,ds/img/ISIC_0028950.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033035.jpg,ds/img/ISIC_0033035.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025307.jpg,ds/img/ISIC_0025307.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031465.jpg,ds/img/ISIC_0031465.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0032449.jpg,ds/img/ISIC_0032449.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025718.jpg,ds/img/ISIC_0025718.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0026532.jpg,ds/img/ISIC_0026532.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0025018.jpg,ds/img/ISIC_0025018.jpg,melanoma,mel,450,600,True,4
+ISIC_0031949.jpg,ds/img/ISIC_0031949.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033899.jpg,ds/img/ISIC_0033899.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0028516.jpg,ds/img/ISIC_0028516.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030349.jpg,ds/img/ISIC_0030349.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0032888.jpg,ds/img/ISIC_0032888.jpg,melanoma,mel,450,600,True,4
+ISIC_0033491.jpg,ds/img/ISIC_0033491.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0032222.jpg,ds/img/ISIC_0032222.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0030288.jpg,ds/img/ISIC_0030288.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027364.jpg,ds/img/ISIC_0027364.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030216.jpg,ds/img/ISIC_0030216.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025452.jpg,ds/img/ISIC_0025452.jpg,vascular lesions,vasc,450,600,True,6
+ISIC_0029261.jpg,ds/img/ISIC_0029261.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032517.jpg,ds/img/ISIC_0032517.jpg,melanoma,mel,450,600,True,4
+ISIC_0032043.jpg,ds/img/ISIC_0032043.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0033490.jpg,ds/img/ISIC_0033490.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0030491.jpg,ds/img/ISIC_0030491.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0025082.jpg,ds/img/ISIC_0025082.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026409.jpg,ds/img/ISIC_0026409.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0025442.jpg,ds/img/ISIC_0025442.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028443.jpg,ds/img/ISIC_0028443.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029824.jpg,ds/img/ISIC_0029824.jpg,dermatofibroma,df,450,600,True,3
+ISIC_0029164.jpg,ds/img/ISIC_0029164.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033066.jpg,ds/img/ISIC_0033066.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024682.jpg,ds/img/ISIC_0024682.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029570.jpg,ds/img/ISIC_0029570.jpg,melanoma,mel,450,600,True,4
+ISIC_0031955.jpg,ds/img/ISIC_0031955.jpg,vascular lesions,vasc,450,600,True,6
+ISIC_0024608.jpg,ds/img/ISIC_0024608.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0034201.jpg,ds/img/ISIC_0034201.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0033240.jpg,ds/img/ISIC_0033240.jpg,melanoma,mel,450,600,True,4
+ISIC_0033178.jpg,ds/img/ISIC_0033178.jpg,melanoma,mel,450,600,True,4
+ISIC_0030619.jpg,ds/img/ISIC_0030619.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033330.jpg,ds/img/ISIC_0033330.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025032.jpg,ds/img/ISIC_0025032.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0030994.jpg,ds/img/ISIC_0030994.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029222.jpg,ds/img/ISIC_0029222.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026653.jpg,ds/img/ISIC_0026653.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029755.jpg,ds/img/ISIC_0029755.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0030635.jpg,ds/img/ISIC_0030635.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033731.jpg,ds/img/ISIC_0033731.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030807.jpg,ds/img/ISIC_0030807.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025978.jpg,ds/img/ISIC_0025978.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025623.jpg,ds/img/ISIC_0025623.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0027668.jpg,ds/img/ISIC_0027668.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0032191.jpg,ds/img/ISIC_0032191.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0034047.jpg,ds/img/ISIC_0034047.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0024349.jpg,ds/img/ISIC_0024349.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030274.jpg,ds/img/ISIC_0030274.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025303.jpg,ds/img/ISIC_0025303.jpg,melanoma,mel,450,600,True,4
+ISIC_0032330.jpg,ds/img/ISIC_0032330.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0027821.jpg,ds/img/ISIC_0027821.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026168.jpg,ds/img/ISIC_0026168.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031318.jpg,ds/img/ISIC_0031318.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0031674.jpg,ds/img/ISIC_0031674.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025343.jpg,ds/img/ISIC_0025343.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029781.jpg,ds/img/ISIC_0029781.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0028929.jpg,ds/img/ISIC_0028929.jpg,melanoma,mel,450,600,True,4
+ISIC_0025077.jpg,ds/img/ISIC_0025077.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027625.jpg,ds/img/ISIC_0027625.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025294.jpg,ds/img/ISIC_0025294.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033808.jpg,ds/img/ISIC_0033808.jpg,dermatofibroma,df,450,600,True,3
+ISIC_0027384.jpg,ds/img/ISIC_0027384.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027486.jpg,ds/img/ISIC_0027486.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030411.jpg,ds/img/ISIC_0030411.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029880.jpg,ds/img/ISIC_0029880.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0032893.jpg,ds/img/ISIC_0032893.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031342.jpg,ds/img/ISIC_0031342.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026106.jpg,ds/img/ISIC_0026106.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026757.jpg,ds/img/ISIC_0026757.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032927.jpg,ds/img/ISIC_0032927.jpg,melanoma,mel,450,600,True,4
+ISIC_0028091.jpg,ds/img/ISIC_0028091.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031363.jpg,ds/img/ISIC_0031363.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031600.jpg,ds/img/ISIC_0031600.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0030085.jpg,ds/img/ISIC_0030085.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029727.jpg,ds/img/ISIC_0029727.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032834.jpg,ds/img/ISIC_0032834.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0027558.jpg,ds/img/ISIC_0027558.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031057.jpg,ds/img/ISIC_0031057.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0033863.jpg,ds/img/ISIC_0033863.jpg,melanoma,mel,450,600,True,4
+ISIC_0027387.jpg,ds/img/ISIC_0027387.jpg,melanoma,mel,450,600,True,4
+ISIC_0032302.jpg,ds/img/ISIC_0032302.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0030621.jpg,ds/img/ISIC_0030621.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027076.jpg,ds/img/ISIC_0027076.jpg,melanoma,mel,450,600,True,4
+ISIC_0032421.jpg,ds/img/ISIC_0032421.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025194.jpg,ds/img/ISIC_0025194.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029686.jpg,ds/img/ISIC_0029686.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025762.jpg,ds/img/ISIC_0025762.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028751.jpg,ds/img/ISIC_0028751.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032054.jpg,ds/img/ISIC_0032054.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025569.jpg,ds/img/ISIC_0025569.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032675.jpg,ds/img/ISIC_0032675.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0032828.jpg,ds/img/ISIC_0032828.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028820.jpg,ds/img/ISIC_0028820.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0033998.jpg,ds/img/ISIC_0033998.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032617.jpg,ds/img/ISIC_0032617.jpg,melanoma,mel,450,600,True,4
+ISIC_0033560.jpg,ds/img/ISIC_0033560.jpg,melanoma,mel,450,600,True,4
+ISIC_0034312.jpg,ds/img/ISIC_0034312.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032528.jpg,ds/img/ISIC_0032528.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029598.jpg,ds/img/ISIC_0029598.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0029986.jpg,ds/img/ISIC_0029986.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032784.jpg,ds/img/ISIC_0032784.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030267.jpg,ds/img/ISIC_0030267.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026735.jpg,ds/img/ISIC_0026735.jpg,melanoma,mel,450,600,True,4
+ISIC_0029745.jpg,ds/img/ISIC_0029745.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0026778.jpg,ds/img/ISIC_0026778.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030545.jpg,ds/img/ISIC_0030545.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029239.jpg,ds/img/ISIC_0029239.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028339.jpg,ds/img/ISIC_0028339.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024375.jpg,ds/img/ISIC_0024375.jpg,vascular lesions,vasc,450,600,True,6
+ISIC_0028849.jpg,ds/img/ISIC_0028849.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024984.jpg,ds/img/ISIC_0024984.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0027255.jpg,ds/img/ISIC_0027255.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033347.jpg,ds/img/ISIC_0033347.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027249.jpg,ds/img/ISIC_0027249.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031492.jpg,ds/img/ISIC_0031492.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033078.jpg,ds/img/ISIC_0033078.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026302.jpg,ds/img/ISIC_0026302.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027778.jpg,ds/img/ISIC_0027778.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031800.jpg,ds/img/ISIC_0031800.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033648.jpg,ds/img/ISIC_0033648.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032119.jpg,ds/img/ISIC_0032119.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032171.jpg,ds/img/ISIC_0032171.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029297.jpg,ds/img/ISIC_0029297.jpg,dermatofibroma,df,450,600,True,3
+ISIC_0027679.jpg,ds/img/ISIC_0027679.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027628.jpg,ds/img/ISIC_0027628.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033232.jpg,ds/img/ISIC_0033232.jpg,melanoma,mel,450,600,True,4
+ISIC_0027245.jpg,ds/img/ISIC_0027245.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031024.jpg,ds/img/ISIC_0031024.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0029285.jpg,ds/img/ISIC_0029285.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028659.jpg,ds/img/ISIC_0028659.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0029072.jpg,ds/img/ISIC_0029072.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029663.jpg,ds/img/ISIC_0029663.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028311.jpg,ds/img/ISIC_0028311.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027278.jpg,ds/img/ISIC_0027278.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025210.jpg,ds/img/ISIC_0025210.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033840.jpg,ds/img/ISIC_0033840.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025112.jpg,ds/img/ISIC_0025112.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033077.jpg,ds/img/ISIC_0033077.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029977.jpg,ds/img/ISIC_0029977.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026701.jpg,ds/img/ISIC_0026701.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031477.jpg,ds/img/ISIC_0031477.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029141.jpg,ds/img/ISIC_0029141.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0031389.jpg,ds/img/ISIC_0031389.jpg,melanoma,mel,450,600,True,4
+ISIC_0030472.jpg,ds/img/ISIC_0030472.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033797.jpg,ds/img/ISIC_0033797.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025850.jpg,ds/img/ISIC_0025850.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026727.jpg,ds/img/ISIC_0026727.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025899.jpg,ds/img/ISIC_0025899.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029429.jpg,ds/img/ISIC_0029429.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029690.jpg,ds/img/ISIC_0029690.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033769.jpg,ds/img/ISIC_0033769.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028388.jpg,ds/img/ISIC_0028388.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0027391.jpg,ds/img/ISIC_0027391.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028160.jpg,ds/img/ISIC_0028160.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024325.jpg,ds/img/ISIC_0024325.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026029.jpg,ds/img/ISIC_0026029.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024968.jpg,ds/img/ISIC_0024968.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029622.jpg,ds/img/ISIC_0029622.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028107.jpg,ds/img/ISIC_0028107.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0031359.jpg,ds/img/ISIC_0031359.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027155.jpg,ds/img/ISIC_0027155.jpg,melanoma,mel,450,600,True,4
+ISIC_0025937.jpg,ds/img/ISIC_0025937.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0027967.jpg,ds/img/ISIC_0027967.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0028668.jpg,ds/img/ISIC_0028668.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027686.jpg,ds/img/ISIC_0027686.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027488.jpg,ds/img/ISIC_0027488.jpg,dermatofibroma,df,450,600,True,3
+ISIC_0032689.jpg,ds/img/ISIC_0032689.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026710.jpg,ds/img/ISIC_0026710.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033184.jpg,ds/img/ISIC_0033184.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0025843.jpg,ds/img/ISIC_0025843.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024442.jpg,ds/img/ISIC_0024442.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0034118.jpg,ds/img/ISIC_0034118.jpg,melanoma,mel,450,600,True,4
+ISIC_0030742.jpg,ds/img/ISIC_0030742.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029189.jpg,ds/img/ISIC_0029189.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025142.jpg,ds/img/ISIC_0025142.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027037.jpg,ds/img/ISIC_0027037.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0025658.jpg,ds/img/ISIC_0025658.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033017.jpg,ds/img/ISIC_0033017.jpg,melanoma,mel,450,600,True,4
+ISIC_0027204.jpg,ds/img/ISIC_0027204.jpg,melanoma,mel,450,600,True,4
+ISIC_0032431.jpg,ds/img/ISIC_0032431.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026104.jpg,ds/img/ISIC_0026104.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0027189.jpg,ds/img/ISIC_0027189.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0031840.jpg,ds/img/ISIC_0031840.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029354.jpg,ds/img/ISIC_0029354.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032203.jpg,ds/img/ISIC_0032203.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0033188.jpg,ds/img/ISIC_0033188.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027283.jpg,ds/img/ISIC_0027283.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026359.jpg,ds/img/ISIC_0026359.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0034128.jpg,ds/img/ISIC_0034128.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025558.jpg,ds/img/ISIC_0025558.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030371.jpg,ds/img/ISIC_0030371.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032083.jpg,ds/img/ISIC_0032083.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031917.jpg,ds/img/ISIC_0031917.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027557.jpg,ds/img/ISIC_0027557.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028124.jpg,ds/img/ISIC_0028124.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0027116.jpg,ds/img/ISIC_0027116.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026942.jpg,ds/img/ISIC_0026942.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028844.jpg,ds/img/ISIC_0028844.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026356.jpg,ds/img/ISIC_0026356.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028125.jpg,ds/img/ISIC_0028125.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033293.jpg,ds/img/ISIC_0033293.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026817.jpg,ds/img/ISIC_0026817.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032196.jpg,ds/img/ISIC_0032196.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033321.jpg,ds/img/ISIC_0033321.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0026677.jpg,ds/img/ISIC_0026677.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032481.jpg,ds/img/ISIC_0032481.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0024698.jpg,ds/img/ISIC_0024698.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027039.jpg,ds/img/ISIC_0027039.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027854.jpg,ds/img/ISIC_0027854.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028646.jpg,ds/img/ISIC_0028646.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0026967.jpg,ds/img/ISIC_0026967.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0025244.jpg,ds/img/ISIC_0025244.jpg,vascular lesions,vasc,450,600,True,6
+ISIC_0032329.jpg,ds/img/ISIC_0032329.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0030169.jpg,ds/img/ISIC_0030169.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029234.jpg,ds/img/ISIC_0029234.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026465.jpg,ds/img/ISIC_0026465.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028335.jpg,ds/img/ISIC_0028335.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0026893.jpg,ds/img/ISIC_0026893.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0033021.jpg,ds/img/ISIC_0033021.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025429.jpg,ds/img/ISIC_0025429.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030045.jpg,ds/img/ISIC_0030045.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025967.jpg,ds/img/ISIC_0025967.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029451.jpg,ds/img/ISIC_0029451.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024371.jpg,ds/img/ISIC_0024371.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0026123.jpg,ds/img/ISIC_0026123.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027353.jpg,ds/img/ISIC_0027353.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027457.jpg,ds/img/ISIC_0027457.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032778.jpg,ds/img/ISIC_0032778.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0033106.jpg,ds/img/ISIC_0033106.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029736.jpg,ds/img/ISIC_0029736.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0034307.jpg,ds/img/ISIC_0034307.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026473.jpg,ds/img/ISIC_0026473.jpg,dermatofibroma,df,450,600,True,3
+ISIC_0028996.jpg,ds/img/ISIC_0028996.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029578.jpg,ds/img/ISIC_0029578.jpg,dermatofibroma,df,450,600,True,3
+ISIC_0028592.jpg,ds/img/ISIC_0028592.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033180.jpg,ds/img/ISIC_0033180.jpg,melanoma,mel,450,600,True,4
+ISIC_0027295.jpg,ds/img/ISIC_0027295.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0026816.jpg,ds/img/ISIC_0026816.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031422.jpg,ds/img/ISIC_0031422.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032578.jpg,ds/img/ISIC_0032578.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024716.jpg,ds/img/ISIC_0024716.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027900.jpg,ds/img/ISIC_0027900.jpg,melanoma,mel,450,600,True,4
+ISIC_0024389.jpg,ds/img/ISIC_0024389.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026684.jpg,ds/img/ISIC_0026684.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031512.jpg,ds/img/ISIC_0031512.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026614.jpg,ds/img/ISIC_0026614.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0025265.jpg,ds/img/ISIC_0025265.jpg,melanoma,mel,450,600,True,4
+ISIC_0034099.jpg,ds/img/ISIC_0034099.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033847.jpg,ds/img/ISIC_0033847.jpg,dermatofibroma,df,450,600,True,3
+ISIC_0031392.jpg,ds/img/ISIC_0031392.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033508.jpg,ds/img/ISIC_0033508.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029956.jpg,ds/img/ISIC_0029956.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030183.jpg,ds/img/ISIC_0030183.jpg,melanoma,mel,450,600,True,4
+ISIC_0033173.jpg,ds/img/ISIC_0033173.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025834.jpg,ds/img/ISIC_0025834.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033599.jpg,ds/img/ISIC_0033599.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024893.jpg,ds/img/ISIC_0024893.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0028994.jpg,ds/img/ISIC_0028994.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0031747.jpg,ds/img/ISIC_0031747.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030501.jpg,ds/img/ISIC_0030501.jpg,melanoma,mel,450,600,True,4
+ISIC_0027011.jpg,ds/img/ISIC_0027011.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0034147.jpg,ds/img/ISIC_0034147.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025414.jpg,ds/img/ISIC_0025414.jpg,melanoma,mel,450,600,True,4
+ISIC_0028949.jpg,ds/img/ISIC_0028949.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030537.jpg,ds/img/ISIC_0030537.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032788.jpg,ds/img/ISIC_0032788.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029913.jpg,ds/img/ISIC_0029913.jpg,melanoma,mel,450,600,True,4
+ISIC_0034111.jpg,ds/img/ISIC_0034111.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028921.jpg,ds/img/ISIC_0028921.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033596.jpg,ds/img/ISIC_0033596.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027406.jpg,ds/img/ISIC_0027406.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033432.jpg,ds/img/ISIC_0033432.jpg,melanoma,mel,450,600,True,4
+ISIC_0024394.jpg,ds/img/ISIC_0024394.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031918.jpg,ds/img/ISIC_0031918.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0027144.jpg,ds/img/ISIC_0027144.jpg,melanoma,mel,450,600,True,4
+ISIC_0025397.jpg,ds/img/ISIC_0025397.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033597.jpg,ds/img/ISIC_0033597.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033908.jpg,ds/img/ISIC_0033908.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0026692.jpg,ds/img/ISIC_0026692.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029740.jpg,ds/img/ISIC_0029740.jpg,melanoma,mel,450,600,True,4
+ISIC_0034120.jpg,ds/img/ISIC_0034120.jpg,melanoma,mel,450,600,True,4
+ISIC_0028169.jpg,ds/img/ISIC_0028169.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026447.jpg,ds/img/ISIC_0026447.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026328.jpg,ds/img/ISIC_0026328.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027873.jpg,ds/img/ISIC_0027873.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025110.jpg,ds/img/ISIC_0025110.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024440.jpg,ds/img/ISIC_0024440.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028946.jpg,ds/img/ISIC_0028946.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033331.jpg,ds/img/ISIC_0033331.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029952.jpg,ds/img/ISIC_0029952.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029404.jpg,ds/img/ISIC_0029404.jpg,vascular lesions,vasc,450,600,True,6
+ISIC_0024671.jpg,ds/img/ISIC_0024671.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031412.jpg,ds/img/ISIC_0031412.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033322.jpg,ds/img/ISIC_0033322.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0033790.jpg,ds/img/ISIC_0033790.jpg,dermatofibroma,df,450,600,True,3
+ISIC_0029631.jpg,ds/img/ISIC_0029631.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027832.jpg,ds/img/ISIC_0027832.jpg,melanoma,mel,450,600,True,4
+ISIC_0027888.jpg,ds/img/ISIC_0027888.jpg,vascular lesions,vasc,450,600,True,6
+ISIC_0033937.jpg,ds/img/ISIC_0033937.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026640.jpg,ds/img/ISIC_0026640.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024647.jpg,ds/img/ISIC_0024647.jpg,melanoma,mel,450,600,True,4
+ISIC_0026446.jpg,ds/img/ISIC_0026446.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0025796.jpg,ds/img/ISIC_0025796.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032230.jpg,ds/img/ISIC_0032230.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0030610.jpg,ds/img/ISIC_0030610.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033465.jpg,ds/img/ISIC_0033465.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0029948.jpg,ds/img/ISIC_0029948.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027485.jpg,ds/img/ISIC_0027485.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033495.jpg,ds/img/ISIC_0033495.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032899.jpg,ds/img/ISIC_0032899.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031619.jpg,ds/img/ISIC_0031619.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0030723.jpg,ds/img/ISIC_0030723.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0026779.jpg,ds/img/ISIC_0026779.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025222.jpg,ds/img/ISIC_0025222.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0031896.jpg,ds/img/ISIC_0031896.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025885.jpg,ds/img/ISIC_0025885.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0025486.jpg,ds/img/ISIC_0025486.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029191.jpg,ds/img/ISIC_0029191.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028643.jpg,ds/img/ISIC_0028643.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025010.jpg,ds/img/ISIC_0025010.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026550.jpg,ds/img/ISIC_0026550.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026431.jpg,ds/img/ISIC_0026431.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033081.jpg,ds/img/ISIC_0033081.jpg,melanoma,mel,450,600,True,4
+ISIC_0026843.jpg,ds/img/ISIC_0026843.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0029562.jpg,ds/img/ISIC_0029562.jpg,melanoma,mel,450,600,True,4
+ISIC_0026886.jpg,ds/img/ISIC_0026886.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026260.jpg,ds/img/ISIC_0026260.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032459.jpg,ds/img/ISIC_0032459.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032727.jpg,ds/img/ISIC_0032727.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0029687.jpg,ds/img/ISIC_0029687.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0033365.jpg,ds/img/ISIC_0033365.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033472.jpg,ds/img/ISIC_0033472.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024724.jpg,ds/img/ISIC_0024724.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025981.jpg,ds/img/ISIC_0025981.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033404.jpg,ds/img/ISIC_0033404.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030864.jpg,ds/img/ISIC_0030864.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033833.jpg,ds/img/ISIC_0033833.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031306.jpg,ds/img/ISIC_0031306.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028715.jpg,ds/img/ISIC_0028715.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027201.jpg,ds/img/ISIC_0027201.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0025908.jpg,ds/img/ISIC_0025908.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028222.jpg,ds/img/ISIC_0028222.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026671.jpg,ds/img/ISIC_0026671.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0024535.jpg,ds/img/ISIC_0024535.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0033229.jpg,ds/img/ISIC_0033229.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028148.jpg,ds/img/ISIC_0028148.jpg,melanoma,mel,450,600,True,4
+ISIC_0025345.jpg,ds/img/ISIC_0025345.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0025415.jpg,ds/img/ISIC_0025415.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0030591.jpg,ds/img/ISIC_0030591.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0029418.jpg,ds/img/ISIC_0029418.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0031827.jpg,ds/img/ISIC_0031827.jpg,dermatofibroma,df,450,600,True,3
+ISIC_0031291.jpg,ds/img/ISIC_0031291.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0029108.jpg,ds/img/ISIC_0029108.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0028574.jpg,ds/img/ISIC_0028574.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026892.jpg,ds/img/ISIC_0026892.jpg,melanoma,mel,450,600,True,4
+ISIC_0027483.jpg,ds/img/ISIC_0027483.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026206.jpg,ds/img/ISIC_0026206.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0028250.jpg,ds/img/ISIC_0028250.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027476.jpg,ds/img/ISIC_0027476.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031985.jpg,ds/img/ISIC_0031985.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0031123.jpg,ds/img/ISIC_0031123.jpg,dermatofibroma,df,450,600,True,3
+ISIC_0028098.jpg,ds/img/ISIC_0028098.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028579.jpg,ds/img/ISIC_0028579.jpg,melanoma,mel,450,600,True,4
+ISIC_0030900.jpg,ds/img/ISIC_0030900.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0026135.jpg,ds/img/ISIC_0026135.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0030827.jpg,ds/img/ISIC_0030827.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0026919.jpg,ds/img/ISIC_0026919.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027224.jpg,ds/img/ISIC_0027224.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0032591.jpg,ds/img/ISIC_0032591.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028253.jpg,ds/img/ISIC_0028253.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027599.jpg,ds/img/ISIC_0027599.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027753.jpg,ds/img/ISIC_0027753.jpg,actinic keratoses,akiec,450,600,True,0
+ISIC_0026533.jpg,ds/img/ISIC_0026533.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0027281.jpg,ds/img/ISIC_0027281.jpg,basal cell carcinoma,bcc,450,600,True,1
+ISIC_0030290.jpg,ds/img/ISIC_0030290.jpg,melanocytic nevi,nv,450,600,True,5
+ISIC_0028842.jpg,ds/img/ISIC_0028842.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0032872.jpg,ds/img/ISIC_0032872.jpg,melanoma,mel,450,600,True,4
+ISIC_0033391.jpg,ds/img/ISIC_0033391.jpg,benign keratosis-like lesions,bkl,450,600,True,2
+ISIC_0026714.jpg,ds/img/ISIC_0026714.jpg,benign keratosis-like lesions,bkl,450,600,True,2
