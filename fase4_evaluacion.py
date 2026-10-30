@@ -1,6 +1,4 @@
 """
-Phase 4 - Single evaluation on the held-out test set: metrics, confusion matrices and ROC curves.
-
 TFM - Clasificación de Lesiones Cutáneas (HAM10000)
 ====================================================
 FASE 4: Evaluación completa sobre conjunto TEST
@@ -39,9 +37,7 @@ from sklearn.metrics import (
 )
 from sklearn.preprocessing import label_binarize
 
-# ─────────────────────────────────────────────
-# CONFIGURACIÓN
-# ─────────────────────────────────────────────
+# Configuración
 OUTPUT_DIR  = Path("outputs")
 MODELS_DIR  = OUTPUT_DIR / "modelos"
 EVAL_DIR    = OUTPUT_DIR / "evaluacion"
@@ -56,15 +52,11 @@ NUM_CLASSES = 7
 
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-print("=" * 60)
 print("  TFM - HAM10000  |  FASE 4: Evaluación sobre Test")
-print("=" * 60)
 print(f"\n  Dispositivo: {DEVICE}")
 
-# ─────────────────────────────────────────────
-# 1. CARGAR DATOS Y METADATOS
-# ─────────────────────────────────────────────
-print(f"\n[1/5] Cargando datos de test...")
+# 1. Cargar datos y metadatos
+print(f"\nCargando datos de test...")
 df_test = pd.read_csv(CSV_TEST)
 
 with open(CW_PATH) as f:
@@ -81,9 +73,7 @@ CLASS_NAMES_FULL  = [LABEL_TO_NAME[i] for i in range(NUM_CLASSES)]
 print(f"  Test: {len(df_test)} imágenes")
 print(f"  Clases: {CLASS_NAMES_SHORT}")
 
-# ─────────────────────────────────────────────
-# 2. DATASET Y DATALOADER
-# ─────────────────────────────────────────────
+# 2. Dataset y dataloader
 test_transform = transforms.Compose([
     transforms.Resize((IMG_SIZE, IMG_SIZE)),
     transforms.ToTensor(),
@@ -111,9 +101,7 @@ test_dataset = HAMDataset(df_test, transform=test_transform)
 test_loader  = DataLoader(test_dataset, batch_size=BATCH_SIZE,
                           shuffle=False, num_workers=0, pin_memory=True)
 
-# ─────────────────────────────────────────────
-# 3. FUNCIÓN DE CARGA DE MODELOS
-# ─────────────────────────────────────────────
+# 3. Función de carga de modelos
 def load_model(arch_name: str) -> nn.Module:
     if arch_name == "vgg16":
         model = models.vgg16(weights=None)
@@ -134,9 +122,7 @@ def load_model(arch_name: str) -> nn.Module:
     model.eval()
     return model
 
-# ─────────────────────────────────────────────
-# 4. INFERENCIA Y MÉTRICAS
-# ─────────────────────────────────────────────
+# 4. Inferencia y métricas
 @torch.no_grad()
 def predict(model, loader):
     all_preds, all_labels, all_probs = [], [], []
@@ -167,9 +153,9 @@ def compute_metrics(y_true, y_pred, y_prob, arch_name):
         zero_division=0
     )
 
-    print(f"\n  {'─'*50}")
+    print(f"\n  {'-'*50}")
     print(f"  {arch_name.upper()} — Métricas sobre TEST")
-    print(f"  {'─'*50}")
+    print(f"  {'-'*50}")
     print(f"  Accuracy         : {acc:.4f}")
     print(f"  F1-macro         : {f1m:.4f}")
     print(f"  F1-weighted      : {f1w:.4f}")
@@ -177,7 +163,7 @@ def compute_metrics(y_true, y_pred, y_prob, arch_name):
     print(f"  Recall-macro     : {rec:.4f}")
     print(f"\n  Por clase:")
     print(f"  {'Clase':<8} {'Precision':>10} {'Recall':>8} {'F1':>8} {'Support':>9}")
-    print(f"  {'─'*47}")
+    print(f"  {'-'*47}")
     for cls in CLASS_NAMES_SHORT:
         r = report[cls]
         print(f"  {cls:<8} {r['precision']:>10.4f} {r['recall']:>8.4f} "
@@ -193,10 +179,8 @@ def compute_metrics(y_true, y_pred, y_prob, arch_name):
         "report"    : report,
     }
 
-# ─────────────────────────────────────────────
-# 5. EVALUAR LOS 3 MODELOS
-# ─────────────────────────────────────────────
-print(f"\n[2/5] Evaluando modelos sobre test set...")
+# 5. Evaluar los 3 modelos
+print(f"\nEvaluando modelos sobre test set...")
 
 ARCHITECTURES = ["vgg16", "resnet50", "efficientnet_b3"]
 all_results   = {}
@@ -213,10 +197,8 @@ for arch in ARCHITECTURES:
     del model
     torch.cuda.empty_cache()
 
-# ─────────────────────────────────────────────
-# 6. MATRICES DE CONFUSIÓN
-# ─────────────────────────────────────────────
-print(f"\n[3/5] Generando matrices de confusión...")
+# 6. Matrices de confusión
+print(f"\nGenerando matrices de confusión...")
 
 fig, axes = plt.subplots(1, 3, figsize=(20, 6))
 fig.suptitle("HAM10000 — Matrices de confusión (Test set)",
@@ -246,10 +228,8 @@ plt.savefig(cm_path, dpi=150, bbox_inches="tight")
 plt.show()
 print(f"  Guardado: {cm_path}")
 
-# ─────────────────────────────────────────────
-# 7. CURVAS ROC
-# ─────────────────────────────────────────────
-print(f"\n[4/5] Generando curvas ROC...")
+# 7. Curvas ROC
+print(f"\nGenerando curvas ROC...")
 
 fig2, axes2 = plt.subplots(1, 3, figsize=(20, 6))
 fig2.suptitle("HAM10000 — Curvas ROC por clase (Test set)",
@@ -286,10 +266,8 @@ plt.savefig(roc_path, dpi=150, bbox_inches="tight")
 plt.show()
 print(f"  Guardado: {roc_path}")
 
-# ─────────────────────────────────────────────
-# 8. TABLA COMPARATIVA FINAL
-# ─────────────────────────────────────────────
-print(f"\n[5/5] Tabla comparativa final...")
+# 8. Tabla comparativa final
+print(f"\nTabla comparativa final...")
 
 fig3, ax3 = plt.subplots(figsize=(10, 3))
 ax3.axis("off")
@@ -331,9 +309,7 @@ plt.savefig(table_path, dpi=150, bbox_inches="tight")
 plt.show()
 print(f"  Guardado: {table_path}")
 
-# ─────────────────────────────────────────────
-# GUARDAR MÉTRICAS EN CSV
-# ─────────────────────────────────────────────
+# Guardar métricas en CSV
 summary_rows = []
 for arch in ARCHITECTURES:
     r = all_results[arch]
@@ -350,29 +326,19 @@ df_summary = pd.DataFrame(summary_rows)
 csv_path   = EVAL_DIR / "fase4_metricas_resumen.csv"
 df_summary.to_csv(csv_path, index=False)
 
-# ─────────────────────────────────────────────
-# RESUMEN FINAL EN TERMINAL
-# ─────────────────────────────────────────────
+# Resumen final en terminal
 best_arch = max(all_results, key=lambda a: all_results[a]["f1_macro"])
 
-print("\n" + "=" * 60)
 print("  RESUMEN FASE 4 — EVALUACIÓN SOBRE TEST")
-print("=" * 60)
 print(f"\n  {'Modelo':<20} {'Acc':>7} {'F1-mac':>8} {'F1-w':>7} "
       f"{'Prec':>7} {'Rec':>7} {'AUC':>7}")
-print(f"  {'─'*57}")
+print(f"  {'-'*57}")
 for arch in ARCHITECTURES:
     r = all_results[arch]
-    marker = " ★" if arch == best_arch else ""
+    marker = " *" if arch == best_arch else ""
     print(f"  {arch:<20} {r['accuracy']:>7.4f} {r['f1_macro']:>8.4f} "
           f"{r['f1_weighted']:>7.4f} {r['precision']:>7.4f} "
           f"{r['recall']:>7.4f} {r['mean_auc']:>7.4f}{marker}")
 
-print(f"\n  ★ Mejor modelo: {best_arch.upper()}")
-print(f"\n  Archivos generados en outputs/evaluacion/:")
-print(f"    • fase4_confusion_matrices.png")
-print(f"    • fase4_curvas_roc.png")
-print(f"    • fase4_tabla_comparativa.png")
-print(f"    • fase4_metricas_resumen.csv")
+print(f"\n  Mejor modelo: {best_arch.upper()}")
 print(f"\n  Pipeline completado.")
-print("=" * 60)

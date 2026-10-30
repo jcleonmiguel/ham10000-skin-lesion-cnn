@@ -1,6 +1,4 @@
 """
-Phase 3 - Training of VGG16, ResNet50 and EfficientNet-B3 (warm-up + fine-tuning, class-weighted loss).
-
 TFM - Clasificación de Lesiones Cutáneas (HAM10000)
 ====================================================
 FASE 3: Entrenamiento — VGG16 / ResNet50 / EfficientNetB3
@@ -33,9 +31,7 @@ from torch.utils.data import Dataset, DataLoader
 from torchvision import transforms, models
 from sklearn.metrics import f1_score, classification_report
 
-# ─────────────────────────────────────────────
-# CONFIGURACIÓN
-# ─────────────────────────────────────────────
+# Configuración
 OUTPUT_DIR   = Path("outputs")
 MODELS_DIR   = OUTPUT_DIR / "modelos"
 MODELS_DIR.mkdir(parents=True, exist_ok=True)
@@ -57,18 +53,14 @@ torch.manual_seed(RANDOM_SEED)
 np.random.seed(RANDOM_SEED)
 
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-print("=" * 60)
 print("  TFM - HAM10000  |  FASE 3: Entrenamiento")
-print("=" * 60)
 print(f"\n  Dispositivo : {DEVICE}")
 if DEVICE.type == "cuda":
     print(f"  GPU         : {torch.cuda.get_device_name(0)}")
     print(f"  VRAM        : {torch.cuda.get_device_properties(0).total_memory / 1e9:.1f} GB")
 
-# ─────────────────────────────────────────────
-# 1. CARGAR DATOS Y CLASS WEIGHTS
-# ─────────────────────────────────────────────
-print(f"\n[1/4] Cargando datos...")
+# 1. Cargar datos y class weights
+print(f"\nCargando datos...")
 df_train = pd.read_csv(CSV_TRAIN)
 df_val   = pd.read_csv(CSV_VAL)
 
@@ -83,9 +75,7 @@ cw_tensor = torch.tensor(
 print(f"  Train: {len(df_train)} | Val: {len(df_val)}")
 print(f"  Class weights cargados: {[f'{cw_dict[i]:.3f}' for i in range(NUM_CLASSES)]}")
 
-# ─────────────────────────────────────────────
-# 2. DATASET Y TRANSFORMS
-# ─────────────────────────────────────────────
+# 2. Dataset y transforms
 
 # Transforms para train: augmentation
 train_transform = transforms.Compose([
@@ -135,12 +125,10 @@ train_loader  = DataLoader(train_dataset, batch_size=BATCH_SIZE,
 val_loader    = DataLoader(val_dataset,   batch_size=BATCH_SIZE,
                            shuffle=False, num_workers=0, pin_memory=True)
 
-print(f"\n[2/4] DataLoaders listos")
+print(f"\nDataLoaders listos")
 print(f"  Batches train: {len(train_loader)} | Batches val: {len(val_loader)}")
 
-# ─────────────────────────────────────────────
-# 3. FUNCIONES DE ENTRENAMIENTO
-# ─────────────────────────────────────────────
+# 3. Funciones de entrenamiento
 
 def build_model(arch_name: str) -> nn.Module:
     """Construye el modelo con cabeza nueva para NUM_CLASSES."""
@@ -239,7 +227,7 @@ def train_model(arch_name: str):
     model     = build_model(arch_name)
     criterion = nn.CrossEntropyLoss(weight=cw_tensor)
 
-    # ── FASE A: warm-up (solo cabeza, backbone congelado)
+    # FASE A: warm-up (solo cabeza, backbone congelado)
     if arch_name == "vgg16":
         optimizer = optim.Adam(model.classifier[6].parameters(), lr=LR_HEAD)
     elif arch_name == "resnet50":
@@ -320,10 +308,8 @@ def train_model(arch_name: str):
     return history, best_f1, model
 
 
-# ─────────────────────────────────────────────
-# 4. ENTRENAR LOS 3 MODELOS
-# ─────────────────────────────────────────────
-print(f"\n[3/4] Iniciando entrenamiento de 3 modelos...")
+# 4. Entrenar los 3 modelos
+print(f"\nIniciando entrenamiento de 3 modelos...")
 print(f"  Epochs máx: {NUM_EPOCHS} | Batch: {BATCH_SIZE} | Patience: {PATIENCE}")
 
 ARCHITECTURES = ["vgg16", "resnet50", "efficientnet_b3"]
@@ -333,10 +319,8 @@ for arch in ARCHITECTURES:
     history, best_f1, model = train_model(arch)
     results[arch] = {"history": history, "best_f1": best_f1, "model": model}
 
-# ─────────────────────────────────────────────
-# 5. GRÁFICOS DE CURVAS DE ENTRENAMIENTO
-# ─────────────────────────────────────────────
-print(f"\n[4/4] Generando gráficos de entrenamiento...")
+# 5. Gráficos de curvas de entrenamiento
+print(f"\nGenerando gráficos de entrenamiento...")
 
 fig, axes = plt.subplots(3, 3, figsize=(18, 14))
 fig.suptitle("HAM10000 — Curvas de entrenamiento por modelo",
@@ -375,12 +359,8 @@ plt.savefig(plot_path, dpi=150, bbox_inches="tight")
 plt.show()
 print(f"  Guardado en: {plot_path}")
 
-# ─────────────────────────────────────────────
-# RESUMEN COMPARATIVO
-# ─────────────────────────────────────────────
-print("\n" + "=" * 60)
+# Resumen comparativo
 print("  RESUMEN FASE 3 — COMPARATIVA DE MODELOS (VAL)")
-print("=" * 60)
 print(f"  {'Modelo':<20} {'Mejor F1-macro':>15}")
 print(f"  {'-'*37}")
 for arch in ARCHITECTURES:
@@ -388,10 +368,7 @@ for arch in ARCHITECTURES:
     print(f"  {arch:<20} {f1:>15.4f}")
 
 best_arch = max(results, key=lambda a: results[a]["best_f1"])
-print(f"\n  ★ Mejor modelo: {best_arch.upper()} "
+print(f"\n  Mejor modelo: {best_arch.upper()} "
       f"(F1-macro={results[best_arch]['best_f1']:.4f})")
-print(f"\n  Archivos generados en outputs/modelos/:")
 for arch in ARCHITECTURES:
-    print(f"    • {arch}_best.pth")
-print(f"\n  → SIGUIENTE PASO: fase4_evaluacion.py")
-print("=" * 60)
+    print(f"    - {arch}_best.pth")

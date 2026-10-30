@@ -1,6 +1,4 @@
 """
-Phase 1 - Dataset exploration: parses the annotations and builds the master CSV (outputs/dataset_info.csv).
-
 TFM - Clasificación de Lesiones Cutáneas (HAM10000)
 ====================================================
 FASE 1: Exploración del dataset y generación del CSV maestro
@@ -28,9 +26,7 @@ from PIL import Image
 import warnings
 warnings.filterwarnings("ignore")
 
-# ─────────────────────────────────────────────
 # CONFIGURACIÓN — ajusta BASE_DIR si es necesario
-# ─────────────────────────────────────────────
 BASE_DIR  = Path(".")          # carpeta donde está el script (TFM CANCER PIEL)
 ANN_DIR   = BASE_DIR / "ds" / "ann"
 IMG_DIR   = BASE_DIR / "ds" / "img"
@@ -49,26 +45,20 @@ CLASS_CODE = {
     "dermatofibroma"               : "df",
 }
 
-# ─────────────────────────────────────────────
-# 1. LEER META.JSON
-# ─────────────────────────────────────────────
-print("=" * 60)
+# 1. Leer meta.json
 print("  TFM - HAM10000  |  FASE 1: Exploración del dataset")
-print("=" * 60)
 
 if META_FILE.exists():
     with open(META_FILE, "r") as f:
         meta = json.load(f)
     print(f"\n[meta.json] Clases definidas en el proyecto:")
     for cls in meta.get("classes", []):
-        print(f"   • {cls['title']}  (geometría: {cls.get('shape', '?')})")
+        print(f"   - {cls['title']}  (geometría: {cls.get('shape', '?')})")
 else:
     print("[AVISO] meta.json no encontrado — continuando sin él.")
 
-# ─────────────────────────────────────────────
-# 2. PARSEAR TODOS LOS JSONs DE ANOTACIÓN
-# ─────────────────────────────────────────────
-print(f"\n[1/4] Leyendo anotaciones desde: {ANN_DIR}")
+# 2. Parsear todos los JSON de anotación
+print(f"\nLeyendo anotaciones desde: {ANN_DIR}")
 
 ann_files = sorted(ANN_DIR.glob("*.json"))
 print(f"      Archivos .json encontrados: {len(ann_files)}")
@@ -115,17 +105,13 @@ print(f"      Imágenes parseadas correctamente: {len(df)}")
 if errores:
     print(f"      [AVISO] Errores / sin anotación: {len(errores)}")
 
-# ─────────────────────────────────────────────
-# 3. GUARDAR CSV MAESTRO
-# ─────────────────────────────────────────────
+# 3. Guardar CSV maestro
 csv_path = OUTPUT_DIR / "dataset_info.csv"
 df.to_csv(csv_path, index=False)
-print(f"\n[2/4] CSV maestro guardado en: {csv_path}")
+print(f"\nCSV maestro guardado en: {csv_path}")
 
-# ─────────────────────────────────────────────
-# 4. ESTADÍSTICAS BÁSICAS
-# ─────────────────────────────────────────────
-print("\n[3/4] Distribución de clases:")
+# 4. Estadísticas básicas
+print("\nDistribución de clases:")
 print("-" * 45)
 
 counts   = df["class_title"].value_counts()
@@ -148,10 +134,8 @@ if len(missing) > 0:
 else:
     print(f"\n[OK] Todas las imágenes existen en ds/img/")
 
-# ─────────────────────────────────────────────
-# 5. GRÁFICOS
-# ─────────────────────────────────────────────
-print("\n[4/4] Generando gráficos...")
+# 5. Gráficos
+print("\nGenerando gráficos...")
 
 PALETTE = {
     "melanocytic nevi"             : "#4C72B0",
@@ -167,7 +151,7 @@ colors_ordered = [PALETTE.get(c, "#999") for c in counts.index]
 fig, axes = plt.subplots(1, 3, figsize=(18, 6))
 fig.suptitle("HAM10000 — Análisis exploratorio de clases", fontsize=14, fontweight="bold")
 
-# ── Gráfico 1: barras de frecuencia absoluta
+# Gráfico 1: barras de frecuencia absoluta
 ax1 = axes[0]
 bars = ax1.barh(counts.index[::-1], counts.values[::-1],
                 color=colors_ordered[::-1], edgecolor="white", height=0.6)
@@ -181,7 +165,7 @@ ax1.invert_xaxis()
 ax1.yaxis.set_label_position("right")
 ax1.yaxis.tick_right()
 
-# ── Gráfico 2: tarta de proporciones
+# Gráfico 2: tarta de proporciones
 ax2 = axes[1]
 wedges, texts, autotexts = ax2.pie(
     counts.values,
@@ -200,7 +184,7 @@ legend_patches = [mpatches.Patch(color=colors_ordered[i], label=counts.index[i])
 ax2.legend(handles=legend_patches, loc="lower center",
            bbox_to_anchor=(0.5, -0.22), ncol=2, fontsize=7.5)
 
-# ── Gráfico 3: ratio de desbalanceo respecto a mayoría
+# Gráfico 3: ratio de desbalanceo respecto a mayoría
 ratios = majority / counts
 ax3 = axes[2]
 bars3 = ax3.bar(range(len(ratios)), ratios.values,
@@ -222,10 +206,8 @@ plt.savefig(plot_path, dpi=150, bbox_inches="tight")
 plt.show()
 print(f"      Gráfico guardado en: {plot_path}")
 
-# ─────────────────────────────────────────────
-# 6. MUESTRA VISUAL DE IMÁGENES POR CLASE
-# ─────────────────────────────────────────────
-print("\n[BONUS] Generando muestra visual (1 imagen por clase)...")
+# 6. Muestra visual de imágenes por clase
+print("\nGenerando muestra visual (1 imagen por clase)...")
 
 fig2, axes2 = plt.subplots(1, len(counts), figsize=(20, 4))
 fig2.suptitle("HAM10000 — Ejemplo de imagen por clase", fontsize=13, fontweight="bold")
@@ -249,20 +231,10 @@ plt.savefig(sample_path, dpi=150, bbox_inches="tight")
 plt.show()
 print(f"      Muestra guardada en: {sample_path}")
 
-# ─────────────────────────────────────────────
-# RESUMEN FINAL
-# ─────────────────────────────────────────────
-print("\n" + "=" * 60)
+# Resumen final
 print("  RESUMEN FASE 1")
-print("=" * 60)
 print(f"  Total imágenes válidas : {total}")
 print(f"  Clases encontradas     : {df['class_title'].nunique()}")
 print(f"  Clase mayoritaria      : melanocytic nevi ({majority} imágenes)")
 print(f"  Clase minoritaria      : {counts.index[-1]} ({counts.iloc[-1]} imágenes)")
 print(f"  Ratio máx. desbalanceo : {majority / counts.iloc[-1]:.1f}x")
-print(f"\n  Archivos generados en outputs/:")
-print(f"    • dataset_info.csv")
-print(f"    • fase1_distribucion_clases.png")
-print(f"    • fase1_muestra_por_clase.png")
-print("\n  → SIGUIENTE PASO: fase2_preprocesamiento.py")
-print("=" * 60)

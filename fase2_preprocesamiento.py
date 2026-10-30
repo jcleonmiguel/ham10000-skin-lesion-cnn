@@ -1,6 +1,4 @@
 """
-Phase 2 - Stratified 70/15/15 train/val/test split and balanced class weights.
-
 TFM - Clasificación de Lesiones Cutáneas (HAM10000)
 ====================================================
 FASE 2: Preprocesamiento — Splits estratificados + verificación
@@ -21,9 +19,7 @@ from sklearn.model_selection import train_test_split
 import warnings
 warnings.filterwarnings("ignore")
 
-# ─────────────────────────────────────────────
-# CONFIGURACIÓN
-# ─────────────────────────────────────────────
+# Configuración
 OUTPUT_DIR  = Path("outputs")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
@@ -50,14 +46,10 @@ CLASS_CODE = {
 }
 CODE_TO_IDX = {code: i for i, code in enumerate(sorted(set(CLASS_CODE.values())))}
 
-print("=" * 60)
 print("  TFM - HAM10000  |  FASE 2: Preprocesamiento y Splits")
-print("=" * 60)
 
-# ─────────────────────────────────────────────
-# 1. CARGAR CSV MAESTRO
-# ─────────────────────────────────────────────
-print(f"\n[1/5] Cargando CSV maestro: {CSV_IN}")
+# 1. Cargar CSV maestro
+print(f"\nCargando CSV maestro: {CSV_IN}")
 df = pd.read_csv(CSV_IN)
 print(f"      Total imágenes: {len(df)}")
 
@@ -72,10 +64,8 @@ for name, code in CLASS_CODE.items():
     n   = len(df[df["class_code"] == code])
     print(f"         {idx}  {code:<6}  {name}  ({n} imgs)")
 
-# ─────────────────────────────────────────────
-# 2. SPLIT ESTRATIFICADO
-# ─────────────────────────────────────────────
-print(f"\n[2/5] Generando splits estratificados "
+# 2. Split estratificado
+print(f"\nGenerando splits estratificados "
       f"({int(TRAIN_RATIO*100)}/{int(VAL_RATIO*100)}/{int(TEST_RATIO*100)})...")
 
 # Paso 1: separar test
@@ -99,10 +89,8 @@ print(f"      Train : {len(df_train):>5} imágenes  ({100*len(df_train)/len(df):
 print(f"      Val   : {len(df_val):>5} imágenes  ({100*len(df_val)/len(df):.1f}%)")
 print(f"      Test  : {len(df_test):>5} imágenes  ({100*len(df_test)/len(df):.1f}%)")
 
-# ─────────────────────────────────────────────
-# 3. GUARDAR CSVs DE SPLIT
-# ─────────────────────────────────────────────
-print(f"\n[3/5] Guardando CSVs de split...")
+# 3. Guardar los CSV de cada split
+print(f"\nGuardando CSVs de split...")
 df_train.to_csv(CSV_TRAIN, index=False)
 df_val.to_csv(CSV_VAL,     index=False)
 df_test.to_csv(CSV_TEST,   index=False)
@@ -110,10 +98,8 @@ print(f"      {CSV_TRAIN}")
 print(f"      {CSV_VAL}")
 print(f"      {CSV_TEST}")
 
-# ─────────────────────────────────────────────
-# 4. VERIFICAR ESTRATIFICACIÓN
-# ─────────────────────────────────────────────
-print(f"\n[4/5] Verificando estratificación por clase:")
+# 4. Verificar estratificación
+print(f"\nVerificando estratificación por clase:")
 print("-" * 65)
 print(f"{'Clase':<8} {'Total':>6} {'Train':>7} {'Val':>7} {'Test':>7}  "
       f"{'Train%':>7} {'Val%':>6} {'Test%':>6}")
@@ -129,10 +115,8 @@ for code in sorted(CODE_TO_IDX.keys()):
           f"{100*n_test/n_total:>5.1f}%")
 print("-" * 65)
 
-# ─────────────────────────────────────────────
-# 5. CALCULAR CLASS WEIGHTS
-# ─────────────────────────────────────────────
-print(f"\n[5/5] Calculando class weights para el entrenamiento...")
+# 5. Calcular class weights
+print(f"\nCalculando class weights para el entrenamiento...")
 
 from sklearn.utils.class_weight import compute_class_weight
 
@@ -163,10 +147,8 @@ for label, weight in sorted(cw_dict.items()):
           f"(train imgs: {n})")
 print(f"\n      Guardado en: {cw_path}")
 
-# ─────────────────────────────────────────────
 # GRÁFICO: distribución en cada split
-# ─────────────────────────────────────────────
-print(f"\n[PLOT] Generando gráfico de verificación de splits...")
+print(f"\nGenerando gráfico de verificación de splits...")
 
 fig, axes = plt.subplots(1, 3, figsize=(16, 5), sharey=False)
 fig.suptitle("HAM10000 — Distribución por clase en cada split",
@@ -193,12 +175,8 @@ plt.savefig(plot_path, dpi=150, bbox_inches="tight")
 plt.show()
 print(f"      Guardado en: {plot_path}")
 
-# ─────────────────────────────────────────────
-# RESUMEN FINAL
-# ─────────────────────────────────────────────
-print("\n" + "=" * 60)
+# Resumen final
 print("  RESUMEN FASE 2")
-print("=" * 60)
 print(f"  Split train/val/test : 70/15/15 estratificado")
 print(f"  Train  : {len(df_train)} imágenes")
 print(f"  Val    : {len(df_val)} imágenes")
@@ -208,11 +186,3 @@ print(f"\n  Class weight máximo (clase más rara)  : "
       f"{max(cw_dict.values()):.4f}")
 print(f"  Class weight mínimo (clase más común) : "
       f"{min(cw_dict.values()):.4f}")
-print(f"\n  Archivos generados en outputs/:")
-print(f"    • split_train.csv")
-print(f"    • split_val.csv")
-print(f"    • split_test.csv")
-print(f"    • class_weights.json")
-print(f"    • fase2_splits.png")
-print(f"\n  → SIGUIENTE PASO: fase3_entrenamiento.py")
-print("=" * 60)
